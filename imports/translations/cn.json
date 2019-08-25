@@ -1,0 +1,1599 @@
+{
+  "lng": "俄语",
+  "blockchain": {
+    "Blockchain Logs": "区块链日志"
+  },
+  "navbar": {
+    "Create Cryptopass": "创建Cryptopass",
+    "Upload Cryptopass": "上传Cryptopass",
+    "Blockchain Logs": "区块链日志"
+  },
+  "fileInput": {
+    "Choose File": "选择文件",
+    "No file chosen": "没有选中任何文件"
+  },
+  "modal": {
+    "Step 4 of 4 Generate your Cryptopass": "第四步：设置密码",
+    "Specify password for your Cryptopass": "输入Cryptopass密码",
+    "Generate your Cryptopass": "生成你的Cryptopass",
+    "Upload your Cryptopass": "上傳你的Cryptopass",
+    "Extract data from Cryptopass": "從Cryptopass中提取數據",
+    "Password": "密码",
+    "Get your Cryptopass": "获得Cryptopass"
+  },
+  "viewForm": {
+    "Send for KYC": "发送给KYC"
+  },
+  "validateForm": {
+    "Approve": "批准",
+    "Reject": "拒绝",
+    "Pending": "待验证",
+    "Approved": "数据已批准",
+    "Rejected": "数据被拒绝",
+    "Sent": "发送",
+    "Server Error": "服务器错误"
+  },
+  "validations": {
+    "A photo should not be empty": "照片不应该是空的",
+    "Should be at least 6 characters long": "不少于6个字符",
+    "Should be at least 8 characters long": "不少于8个字符",
+    "Should be at least 10 characters long": "不少于10个字符",
+    "Should not be empty": "字段不能为空",
+    "Invalid email address": "无效的电子邮件地址",
+    "Email has already been taken": "电子邮件已被占用",
+    "Please enter only letters": "请只输入字母",
+    "Form is not valid": "格式无效",
+    "Specify the correct date": "指定正确日期"
+  },
+  "newPassword": {
+    "Change your password": "更改密码",
+    "Old password": "旧密码",
+    "New password": "新密码",
+    "Repeat password": "重复密码",
+    "Set new password": "设置新密码",
+    "Enter correct confirm password": "输入正确的确认密码",
+    "Your password has been changed": "您的密码已更改",
+    "Incorrect old password": "旧密码不正确"
+  },
+  "login": {
+    "Email": "电子邮箱",
+    "Password": "密码",
+    "Login": "登录",
+    "Sign up": "注册",
+    "Incorrect credentials": "用户名错误 \" 密码",
+    "Forgot password": "忘记密码？",
+    "Password recovery": "找回密码",
+    "Enter your email address and we will send you a link to reset your password": "输入您的电子邮件地址，我们将向您发送重置密码的链接。",
+    "Reset password": "重置密码",
+    "Account does not exist": "账户不存在",
+    "We have sent you an email with a link to reset your password Please check your email": "我们已向您发送了一封电子邮件，其中包含重置密码的链接，请查看您的电子邮件",
+    "User not found": "登陆错误",
+    "Incorrect password": "密码错误"
+  },
+  "signup": {
+    "I agree to the Terms and Conditions": "我同意条款和条件。",
+    "Should be in the format of": "必须为 address@mail.com 格式"
+  },
+  "interface": {
+    "Profile": "轮廓",
+    "Logout": "退出",
+    "Admin": "管理员",
+    "Identity": "身份",
+    "Address": "地址",
+    "Phone": "电话",
+    "Email verified": "邮件已通过验",
+    "Email unverified": "电子邮件未验证",
+    "Change password": "更改密码",
+    "Next": "下一步"
+  },
+  "phone": {
+    "Step 3 of 4 verify your phone number": "第三步：验证手机号码",
+    "Verify your phone number": "验证您的电话号码",
+    "Phone number": "电话号码",
+    "Submit": "发送",
+    "Verify": "验证",
+    "You need to fill in all the fields": "必须填满所有字段",
+    "before submitting the form data": "发送表格前",
+    "Thank you Your data has been submitted": "谢谢，您的数据已成功提交。",
+    "Your will be notified by email of verification results": "结果将发送到您的电子邮箱"
+  },
+  "address": {
+    "Step 2 of 4 verify your address": "第二步：验证地址",
+    "Verify your address": "验证您的地址",
+    "Country": "国家",
+    "City": "城市",
+    "Address": "地址",
+    "Please attach legal documents confirming your address": "请附上证明地址的文件",
+    "Legal documents confirming your address": "确认您地址的法律文件",
+    "Select files": "选择文件",
+    "You have already submitted your documents": "您已提交文件",
+    "Submit": "发送",
+    "Required photos": "所需照片:",
+    "Passport page / ID card side showing address of registration": "护照/身份证注册地址页",
+    "Additional document from the list as address confirmation": "列表中的附加证明地址的文件",
+    "utility bills (gas, water, phone, etc)": "公用事业账单（气、水、电话等）",
+    "official bank statements": "银行对账单",
+    "tax authority letters or other official documents": "税务机关信件或其他官方文件",
+    "Additional document must be not more than 6 months old": "附加文件时效不应超过6个月",
+    "photos": {
+      "Submitted photos must adhere to the following requirements": "所附照片需符合以下要求:",
+      "Photos must depict account owner": "照片上应为账户所有者;",
+      "Resolution must be no less than 600x600 pixels": "分辨率不得低于600X600像素;",
+      "Photos must be crisp, not blurred": "照片必须清晰，不能模糊;",
+      "No part of your documents must be covered or obscured by fingers": "手指不能遮盖文件;",
+      "All the data must be clearly visible": "所有的文件必须清晰可见;",
+      "File size must not exceed 2 mb": "文件的大小不能超过2 MB;",
+      "Accepted formats are JPEG, JPG, PNG": "支持格式: JPEG, JPG, PNG"
+    }
+  },
+  "identity": {
+    "Step 1 of 4 verify your identity": "第一步：验证身份",
+    "Verify your identity": "验证您的身份",
+    "First Name": "名",
+    "Last Name": "姓",
+    "Date of birth": "出生日期",
+    "DD MM YYYY": "日月年",
+    "Place of birth": "出生地址",
+    "Citizenship": "国际",
+    "Passport / national ID number": "护照",
+    "Issued by": "签发机关",
+    "Issue date": "签发日期",
+    "Expiry date": "有效期至",
+    "Please attach legal documents confirming your identity": "请附上证明身份的文件",
+    "Legal documents confirming your identity": "确认您身份的法律文件",
+    "Requirements": "要求",
+    "Photos required": "所需照片",
+    "Your passport / ID card": "护照/身份证",
+    "Selfie with passport / ID card": "护照/身份证复印件",
+    "You should hold it by the edge and close to your face so that we can verify that this document really belongs to you Both your face and the picture on the document should be clearly visible and any text on the document must be readable and not be covered by your fingers" : "请把文件放在边缘，并靠近脸部，这样就可以确认这是您本人的文件。你在文件上的脸和照片应该清晰可见，文字也应该清晰可读，不要用手指覆盖文件。",
+    "If you dont have a passport / ID card – please upload a photo of another official document to verify your identity": "如果您没有护照或身份证，请上传一张其他正式文件的照片用于验证您的身份。",
+    "Select a file": "选择文件",
+    "Select file for OCR": "选择OCR识别文件",
+    "If your document has no expiry data, specify any date that is significantly later than the current date (for example, 50 years from now)": "如果您的文档没有到期数据，请指定任何明显晚于当前日期的日期（例如，从现在开始的50年）。"
+  },
+  "notify": {
+    "Within a few seconds, your Cryptopass archive will be downloaded": "几秒钟后，您的Cryptopass存档将被下载"
+  },
+  "countries": [
+    {
+      "key": "af",
+      "value": "af",
+      "flag": "af",
+      "text": "阿富汗"
+    },
+    {
+      "key": "ax",
+      "value": "ax",
+      "flag": "ax",
+      "text": "奥兰群岛"
+    },
+    {
+      "key": "al",
+      "value": "al",
+      "flag": "al",
+      "text": "阿尔巴尼亚"
+    },
+    {
+      "key": "dz",
+      "value": "dz",
+      "flag": "dz",
+      "text": "阿尔及利亚"
+    },
+    {
+      "key": "as",
+      "value": "as",
+      "flag": "as",
+      "text": "美属萨摩亚"
+    },
+    {
+      "key": "ad",
+      "value": "ad",
+      "flag": "ad",
+      "text": "安道尔"
+    },
+    {
+      "key": "ao",
+      "value": "ao",
+      "flag": "ao",
+      "text": "安哥拉"
+    },
+    {
+      "key": "ai",
+      "value": "ai",
+      "flag": "ai",
+      "text": "安圭拉"
+    },
+    {
+      "key": "ag",
+      "value": "ag",
+      "flag": "ag",
+      "text": "安提瓜"
+    },
+    {
+      "key": "ar",
+      "value": "ar",
+      "flag": "ar",
+      "text": "阿根廷"
+    },
+    {
+      "key": "am",
+      "value": "am",
+      "flag": "am",
+      "text": "亚美尼亚"
+    },
+    {
+      "key": "aw",
+      "value": "aw",
+      "flag": "aw",
+      "text": "阿鲁巴"
+    },
+    {
+      "key": "au",
+      "value": "au",
+      "flag": "au",
+      "text": "澳大利亚"
+    },
+    {
+      "key": "at",
+      "value": "at",
+      "flag": "at",
+      "text": "奥地利"
+    },
+    {
+      "key": "az",
+      "value": "az",
+      "flag": "az",
+      "text": "阿塞拜疆"
+    },
+    {
+      "key": "bs",
+      "value": "bs",
+      "flag": "bs",
+      "text": "巴哈马"
+    },
+    {
+      "key": "bh",
+      "value": "bh",
+      "flag": "bh",
+      "text": "巴林"
+    },
+    {
+      "key": "bd",
+      "value": "bd",
+      "flag": "bd",
+      "text": "孟加拉国"
+    },
+    {
+      "key": "bb",
+      "value": "bb",
+      "flag": "bb",
+      "text": "巴巴多斯"
+    },
+    {
+      "key": "by",
+      "value": "by",
+      "flag": "by",
+      "text": "白俄罗斯"
+    },
+    {
+      "key": "be",
+      "value": "be",
+      "flag": "be",
+      "text": "比利时"
+    },
+    {
+      "key": "bz",
+      "value": "bz",
+      "flag": "bz",
+      "text": "伯利兹"
+    },
+    {
+      "key": "bj",
+      "value": "bj",
+      "flag": "bj",
+      "text": "贝宁"
+    },
+    {
+      "key": "bm",
+      "value": "bm",
+      "flag": "bm",
+      "text": "百慕大"
+    },
+    {
+      "key": "bt",
+      "value": "bt",
+      "flag": "bt",
+      "text": "不丹"
+    },
+    {
+      "key": "bo",
+      "value": "bo",
+      "flag": "bo",
+      "text": "玻利维亚"
+    },
+    {
+      "key": "ba",
+      "value": "ba",
+      "flag": "ba",
+      "text": "波黑"
+    },
+    {
+      "key": "bw",
+      "value": "bw",
+      "flag": "bw",
+      "text": "博茨瓦纳"
+    },
+    {
+      "key": "bv",
+      "value": "bv",
+      "flag": "bv",
+      "text": "布维岛"
+    },
+    {
+      "key": "br",
+      "value": "br",
+      "flag": "br",
+      "text": "巴西"
+    },
+    {
+      "key": "vg",
+      "value": "vg",
+      "flag": "vg",
+      "text": "英属维尔京群岛"
+    },
+    {
+      "key": "bn",
+      "value": "bn",
+      "flag": "bn",
+      "text": "文莱"
+    },
+    {
+      "key": "bg",
+      "value": "bg",
+      "flag": "bg",
+      "text": "保加利亚"
+    },
+    {
+      "key": "bf",
+      "value": "bf",
+      "flag": "bf",
+      "text": "布基纳法索"
+    },
+    {
+      "key": "bi",
+      "value": "bi",
+      "flag": "bi",
+      "text": "布隆迪"
+    },
+    {
+      "key": "tc",
+      "value": "tc",
+      "flag": "tc",
+      "text": "凯科斯群岛"
+    },
+    {
+      "key": "kh",
+      "value": "kh",
+      "flag": "kh",
+      "text": "柬埔寨"
+    },
+    {
+      "key": "cm",
+      "value": "cm",
+      "flag": "cm",
+      "text": "喀麦隆"
+    },
+    {
+      "key": "ca",
+      "value": "ca",
+      "flag": "ca",
+      "text": "加拿大"
+    },
+    {
+      "key": "cv",
+      "value": "cv",
+      "flag": "cv",
+      "text": "佛得角"
+    },
+    {
+      "key": "ky",
+      "value": "ky",
+      "flag": "ky",
+      "text": "开曼群岛"
+    },
+    {
+      "key": "cf",
+      "value": "cf",
+      "flag": "cf",
+      "text": "中非共和国"
+    },
+    {
+      "key": "td",
+      "value": "td",
+      "flag": "td",
+      "text": "乍得"
+    },
+    {
+      "key": "cl",
+      "value": "cl",
+      "flag": "cl",
+      "text": "智利"
+    },
+    {
+      "key": "cn",
+      "value": "cn",
+      "flag": "cn",
+      "text": "中国"
+    },
+    {
+      "key": "cx",
+      "value": "cx",
+      "flag": "cx",
+      "text": "圣诞岛"
+    },
+    {
+      "key": "cc",
+      "value": "cc",
+      "flag": "cc",
+      "text": "科科斯群岛"
+    },
+    {
+      "key": "co",
+      "value": "co",
+      "flag": "co",
+      "text": "哥伦比亚"
+    },
+    {
+      "key": "km",
+      "value": "km",
+      "flag": "km",
+      "text": "科摩罗”"
+    },
+    {
+      "key": "cg",
+      "value": "cg",
+      "flag": "cg",
+      "text": "刚果布拉柴维尔"
+    },
+    {
+      "key": "cd",
+      "value": "cd",
+      "flag": "cd",
+      "text": "刚果"
+    },
+    {
+      "key": "ck",
+      "value": "ck",
+      "flag": "ck",
+      "text": "库克群岛"
+    },
+    {
+      "key": "cr",
+      "value": "cr",
+      "flag": "cr",
+      "text": "哥斯达黎加"
+    },
+    {
+      "key": "ci",
+      "value": "ci",
+      "flag": "ci",
+      "text": "科特迪瓦"
+    },
+    {
+      "key": "hr",
+      "value": "hr",
+      "flag": "hr",
+      "text": "克罗地亚"
+    },
+    {
+      "key": "cu",
+      "value": "cu",
+      "flag": "cu",
+      "text": "古巴"
+    },
+    {
+      "key": "cy",
+      "value": "cy",
+      "flag": "cy",
+      "text": "塞浦路斯"
+    },
+    {
+      "key": "cz",
+      "value": "cz",
+      "flag": "cz",
+      "text": "捷克共和国"
+    },
+    {
+      "key": "dk",
+      "value": "dk",
+      "flag": "dk",
+      "text": "丹麦"
+    },
+    {
+      "key": "dj",
+      "value": "dj",
+      "flag": "dj",
+      "text": "吉布提"
+    },
+    {
+      "key": "dm",
+      "value": "dm",
+      "flag": "dm",
+      "text": "多米尼加"
+    },
+    {
+      "key": "do",
+      "value": "do",
+      "flag": "do",
+      "text": "多米尼加共和国"
+    },
+    {
+      "key": "ec",
+      "value": "ec",
+      "flag": "ec",
+      "text": "厄瓜多尔"
+    },
+    {
+      "key": "eg",
+      "value": "eg",
+      "flag": "eg",
+      "text": "埃及"
+    },
+    {
+      "key": "sv",
+      "value": "sv",
+      "flag": "sv",
+      "text": "萨尔瓦多"
+    },
+    {
+      "key": "gb",
+      "value": "gb",
+      "flag": "gb",
+      "text": "英国"
+    },
+    {
+      "key": "gq",
+      "value": "gq",
+      "flag": "gq",
+      "text": "赤道几内亚"
+    },
+    {
+      "key": "er",
+      "value": "er",
+      "flag": "er",
+      "text": "厄立特里亚"
+    },
+    {
+      "key": "ee",
+      "value": "ee",
+      "flag": "ee",
+      "text": "爱沙尼亚"
+    },
+    {
+      "key": "et",
+      "value": "et",
+      "flag": "et",
+      "text": "埃塞俄比亚"
+    },
+    {
+      "key": "eu",
+      "value": "eu",
+      "flag": "eu",
+      "text": "欧盟"
+    },
+    {
+      "key": "fk",
+      "value": "fk",
+      "flag": "fk",
+      "text": "福克兰群岛"
+    },
+    {
+      "key": "fo",
+      "value": "fo",
+      "flag": "fo",
+      "text": "法罗群岛"
+    },
+    {
+      "key": "fj",
+      "value": "fj",
+      "flag": "fj",
+      "text": "斐济"
+    },
+    {
+      "key": "fi",
+      "value": "fi",
+      "flag": "fi",
+      "text": "芬兰"
+    },
+    {
+      "key": "fr",
+      "value": "fr",
+      "flag": "fr",
+      "text": "法国"
+    },
+    {
+      "key": "gf",
+      "value": "gf",
+      "flag": "gf",
+      "text": "法属圭亚那"
+    },
+    {
+      "key": "pf",
+      "value": "pf",
+      "flag": "pf",
+      "text": "法属波利尼西亚"
+    },
+    {
+      "key": "tf",
+      "value": "tf",
+      "flag": "tf",
+      "text": "法国领土"
+    },
+    {
+      "key": "ga",
+      "value": "ga",
+      "flag": "ga",
+      "text": "加蓬"
+    },
+    {
+      "key": "gm",
+      "value": "gm",
+      "flag": "gm",
+      "text": "冈比亚"
+    },
+    {
+      "key": "ge",
+      "value": "ge",
+      "flag": "ge",
+      "text": "格鲁吉亚"
+    },
+    {
+      "key": "de",
+      "value": "de",
+      "flag": "de",
+      "text": "德国"
+    },
+    {
+      "key": "gh",
+      "value": "gh",
+      "flag": "gh",
+      "text": "加纳"
+    },
+    {
+      "key": "gi",
+      "value": "gi",
+      "flag": "gi",
+      "text": "直布罗陀"
+    },
+    {
+      "key": "gr",
+      "value": "gr",
+      "flag": "gr",
+      "text": "希腊"
+    },
+    {
+      "key": "gl",
+      "value": "gl",
+      "flag": "gl",
+      "text": "格陵兰"
+    },
+    {
+      "key": "gd",
+      "value": "gd",
+      "flag": "gd",
+      "text": "格林纳达"
+    },
+    {
+      "key": "gp",
+      "value": "gp",
+      "flag": "gp",
+      "text": "瓜德罗普岛"
+    },
+    {
+      "key": "gu",
+      "value": "gu",
+      "flag": "gu",
+      "text": "关岛"
+    },
+    {
+      "key": "gt",
+      "value": "gt",
+      "flag": "gt",
+      "text": "危地马拉"
+    },
+    {
+      "key": "gw",
+      "value": "gw",
+      "flag": "gw",
+      "text": "几内亚比绍"
+    },
+    {
+      "key": "gn",
+      "value": "gn",
+      "flag": "gn",
+      "text": "几内亚"
+    },
+    {
+      "key": "gy",
+      "value": "gy",
+      "flag": "gy",
+      "text": "圭亚那"
+    },
+    {
+      "key": "ht",
+      "value": "ht",
+      "flag": "ht",
+      "text": "海地"
+    },
+    {
+      "key": "hm",
+      "value": "hm",
+      "flag": "hm",
+      "text": "赫德岛"
+    },
+    {
+      "key": "hn",
+      "value": "hn",
+      "flag": "hn",
+      "text": "洪都拉斯"
+    },
+    {
+      "key": "hk",
+      "value": "hk",
+      "flag": "hk",
+      "text": "中国香港"
+    },
+    {
+      "key": "hu",
+      "value": "hu",
+      "flag": "hu",
+      "text": "匈牙利"
+    },
+    {
+      "key": "is",
+      "value": "is",
+      "flag": "is",
+      "text": "冰岛"
+    },
+    {
+      "key": "in",
+      "value": "in",
+      "flag": "in",
+      "text": "印度"
+    },
+    {
+      "key": "io",
+      "value": "io",
+      "flag": "io",
+      "text": "印度洋领地"
+    },
+    {
+      "key": "id",
+      "value": "id",
+      "flag": "id",
+      "text": "印度尼西亚"
+    },
+    {
+      "key": "ir",
+      "value": "ir",
+      "flag": "ir",
+      "text": "伊朗"
+    },
+    {
+      "key": "iq",
+      "value": "iq",
+      "flag": "iq",
+      "text": "伊拉克"
+    },
+    {
+      "key": "ie",
+      "value": "ie",
+      "flag": "ie",
+      "text": "爱尔兰"
+    },
+    {
+      "key": "il",
+      "value": "il",
+      "flag": "il",
+      "text": "以色列"
+    },
+    {
+      "key": "it",
+      "value": "it",
+      "flag": "it",
+      "text": "意大利"
+    },
+    {
+      "key": "jm",
+      "value": "jm",
+      "flag": "jm",
+      "text": "牙买加"
+    },
+    {
+      "key": "jp",
+      "value": "jp",
+      "flag": "jp",
+      "text": "日本"
+    },
+    {
+      "key": "jo",
+      "value": "jo",
+      "flag": "jo",
+      "text": "约旦"
+    },
+    {
+      "key": "kz",
+      "value": "kz",
+      "flag": "kz",
+      "text": "哈萨克斯坦"
+    },
+    {
+      "key": "ke",
+      "value": "ke",
+      "flag": "ke",
+      "text": "肯尼亚"
+    },
+    {
+      "key": "ki",
+      "value": "ki",
+      "flag": "ki",
+      "text": "基里巴斯"
+    },
+    {
+      "key": "kw",
+      "value": "kw",
+      "flag": "kw",
+      "text": "科威特"
+    },
+    {
+      "key": "kg",
+      "value": "kg",
+      "flag": "kg",
+      "text": "吉尔吉斯斯坦"
+    },
+    {
+      "key": "la",
+      "value": "la",
+      "flag": "la",
+      "text": "老挝"
+    },
+    {
+      "key": "lv",
+      "value": "lv",
+      "flag": "lv",
+      "text": "拉脱维亚"
+    },
+    {
+      "key": "lb",
+      "value": "lb",
+      "flag": "lb",
+      "text": "黎巴嫩"
+    },
+    {
+      "key": "ls",
+      "value": "ls",
+      "flag": "ls",
+      "text": "莱索托"
+    },
+    {
+      "key": "lr",
+      "value": "lr",
+      "flag": "lr",
+      "text": "利比里亚"
+    },
+    {
+      "key": "ly",
+      "value": "ly",
+      "flag": "ly",
+      "text": "利比亚"
+    },
+    {
+      "key": "li",
+      "value": "li",
+      "flag": "li",
+      "text": "列支敦士登"
+    },
+    {
+      "key": "lt",
+      "value": "lt",
+      "flag": "lt",
+      "text": "立陶宛"
+    },
+    {
+      "key": "lu",
+      "value": "lu",
+      "flag": "lu",
+      "text": "卢森堡"
+    },
+    {
+      "key": "mo",
+      "value": "mo",
+      "flag": "mo",
+      "text": "中国澳门"
+    },
+    {
+      "key": "mk",
+      "value": "mk",
+      "flag": "mk",
+      "text": "马其顿"
+    },
+    {
+      "key": "mg",
+      "value": "mg",
+      "flag": "mg",
+      "text": "马达加斯加"
+    },
+    {
+      "key": "mw",
+      "value": "mw",
+      "flag": "mw",
+      "text": "马拉维"
+    },
+    {
+      "key": "my",
+      "value": "my",
+      "flag": "my",
+      "text": "马来西亚"
+    },
+    {
+      "key": "mv",
+      "value": "mv",
+      "flag": "mv",
+      "text": "马尔代夫"
+    },
+    {
+      "key": "ml",
+      "value": "ml",
+      "flag": "ml",
+      "text": "马里"
+    },
+    {
+      "key": "mt",
+      "value": "mt",
+      "flag": "mt",
+      "text": "马耳他"
+    },
+    {
+      "key": "mh",
+      "value": "mh",
+      "flag": "mh",
+      "text": "马绍尔群岛"
+    },
+    {
+      "key": "mq",
+      "value": "mq",
+      "flag": "mq",
+      "text": "马提尼克岛"
+    },
+    {
+      "key": "mr",
+      "value": "mr",
+      "flag": "mr",
+      "text": "毛里塔尼亚"
+    },
+    {
+      "key": "mu",
+      "value": "mu",
+      "flag": "mu",
+      "text": "毛里求斯"
+    },
+    {
+      "key": "yt",
+      "value": "yt",
+      "flag": "yt",
+      "text": "马约特"
+    },
+    {
+      "key": "mx",
+      "value": "mx",
+      "flag": "mx",
+      "text": "墨西哥"
+    },
+    {
+      "key": "fm",
+      "value": "fm",
+      "flag": "fm",
+      "text": "密克罗尼西亚"
+    },
+    {
+      "key": "md",
+      "value": "md",
+      "flag": "md",
+      "text": "“摩尔多瓦"
+    },
+    {
+      "key": "mc",
+      "value": "mc",
+      "flag": "mc",
+      "text": "摩纳哥"
+    },
+    {
+      "key": "mn",
+      "value": "mn",
+      "flag": "mn",
+      "text": "蒙古"
+    },
+    {
+      "key": "me",
+      "value": "me",
+      "flag": "me",
+      "text": "黑山"
+    },
+    {
+      "key": "ms",
+      "value": "ms",
+      "flag": "ms",
+      "text": "蒙特塞拉特"
+    },
+    {
+      "key": "ma",
+      "value": "ma",
+      "flag": "ma",
+      "text": "摩洛哥"
+    },
+    {
+      "key": "mz",
+      "value": "mz",
+      "flag": "mz",
+      "text": "莫桑比克"
+    },
+    {
+      "key": "na",
+      "value": "na",
+      "flag": "na",
+      "text": "纳米比亚"
+    },
+    {
+      "key": "nr",
+      "value": "nr",
+      "flag": "nr",
+      "text": "瑙鲁"
+    },
+    {
+      "key": "np",
+      "value": "np",
+      "flag": "np",
+      "text": "尼泊尔"
+    },
+    {
+      "key": "an",
+      "value": "an",
+      "flag": "an",
+      "text": "荷属安的列斯群岛"
+    },
+    {
+      "key": "nl",
+      "value": "nl",
+      "flag": "nl",
+      "text": "荷兰"
+    },
+    {
+      "key": "nc",
+      "value": "nc",
+      "flag": "nc",
+      "text": "新喀里多尼亚"
+    },
+    {
+      "key": "pg",
+      "value": "pg",
+      "flag": "pg",
+      "text": "新几内亚"
+    },
+    {
+      "key": "nz",
+      "value": "nz",
+      "flag": "nz",
+      "text": "新西兰"
+    },
+    {
+      "key": "ni",
+      "value": "ni",
+      "flag": "ni",
+      "text": "尼加拉瓜"
+    },
+    {
+      "key": "ne",
+      "value": "ne",
+      "flag": "ne",
+      "text": "尼日尔"
+    },
+    {
+      "key": "ng",
+      "value": "ng",
+      "flag": "ng",
+      "text": "尼日利亚"
+    },
+    {
+      "key": "nu",
+      "value": "nu",
+      "flag": "nu",
+      "text": "纽埃"
+    },
+    {
+      "key": "nf",
+      "value": "nf",
+      "flag": "nf",
+      "text": "诺福克岛"
+    },
+    {
+      "key": "kp",
+      "value": "kp",
+      "flag": "kp",
+      "text": "朝鲜"
+    },
+    {
+      "key": "mp",
+      "value": "mp",
+      "flag": "mp",
+      "text": "北马里亚纳群岛"
+    },
+    {
+      "key": "no",
+      "value": "no",
+      "flag": "no",
+      "text": "挪威"
+    },
+    {
+      "key": "om",
+      "value": "om",
+      "flag": "om",
+      "text": "阿曼"
+    },
+    {
+      "key": "pk",
+      "value": "pk",
+      "flag": "pk",
+      "text": "巴基斯坦"
+    },
+    {
+      "key": "pw",
+      "value": "pw",
+      "flag": "pw",
+      "text": "帕劳"
+    },
+    {
+      "key": "ps",
+      "value": "ps",
+      "flag": "ps",
+      "text": "巴勒斯坦"
+    },
+    {
+      "key": "pa",
+      "value": "pa",
+      "flag": "pa",
+      "text": "巴拿马"
+    },
+    {
+      "key": "py",
+      "value": "py",
+      "flag": "py",
+      "text": "巴拉圭"
+    },
+    {
+      "key": "pe",
+      "value": "pe",
+      "flag": "pe",
+      "text": "秘鲁"
+    },
+    {
+      "key": "ph",
+      "value": "ph",
+      "flag": "ph",
+      "text": "菲律宾"
+    },
+    {
+      "key": "pn",
+      "value": "pn",
+      "flag": "pn",
+      "text": "皮特凯恩群岛"
+    },
+    {
+      "key": "pl",
+      "value": "pl",
+      "flag": "pl",
+      "text": "波兰"
+    },
+    {
+      "key": "pt",
+      "value": "pt",
+      "flag": "pt",
+      "text": "葡萄牙"
+    },
+    {
+      "key": "pr",
+      "value": "pr",
+      "flag": "pr",
+      "text": "波多黎各"
+    },
+    {
+      "key": "qa",
+      "value": "qa",
+      "flag": "qa",
+      "text": "卡塔尔"
+    },
+    {
+      "key": "re",
+      "value": "re",
+      "flag": "re",
+      "text": "留尼望岛"
+    },
+    {
+      "key": "ro",
+      "value": "ro",
+      "flag": "ro",
+      "text": "罗马尼亚"
+    },
+    {
+      "key": "ru",
+      "value": "ru",
+      "flag": "ru",
+      "text": "俄罗斯"
+    },
+    {
+      "key": "rw",
+      "value": "rw",
+      "flag": "rw",
+      "text": "卢旺达"
+    },
+    {
+      "key": "sh",
+      "value": "sh",
+      "flag": "sh",
+      "text": "圣赫勒拿"
+    },
+    {
+      "key": "kn",
+      "value": "kn",
+      "flag": "kn",
+      "text": "圣基茨和尼维斯"
+    },
+    {
+      "key": "lc",
+      "value": "lc",
+      "flag": "lc",
+      "text": "圣卢西亚"
+    },
+    {
+      "key": "pm",
+      "value": "pm",
+      "flag": "pm",
+      "text": "圣皮埃尔"
+    },
+    {
+      "key": "vc",
+      "value": "vc",
+      "flag": "vc",
+      "text": "圣文森特"
+    },
+    {
+      "key": "ws",
+      "value": "ws",
+      "flag": "ws",
+      "text": "萨摩亚"
+    },
+    {
+      "key": "sm",
+      "value": "sm",
+      "flag": "sm",
+      "text": "圣马力诺"
+    },
+    {
+      "key": "gs",
+      "value": "gs",
+      "flag": "gs",
+      "text": "三明治群岛"
+    },
+    {
+      "key": "st",
+      "value": "st",
+      "flag": "st",
+      "text": "圣多美"
+    },
+    {
+      "key": "sa",
+      "value": "sa",
+      "flag": "sa",
+      "text": "沙特阿拉伯"
+    },
+    {
+      "key": "sn",
+      "value": "sn",
+      "flag": "sn",
+      "text": "塞内加尔"
+    },
+    {
+      "key": "rs",
+      "value": "rs",
+      "flag": "rs",
+      "text": "塞尔维亚"
+    },
+    {
+      "key": "sc",
+      "value": "sc",
+      "flag": "sc",
+      "text": "塞舌尔"
+    },
+    {
+      "key": "sl",
+      "value": "sl",
+      "flag": "sl",
+      "text": "塞拉利昂"
+    },
+    {
+      "key": "sg",
+      "value": "sg",
+      "flag": "sg",
+      "text": "新加坡"
+    },
+    {
+      "key": "sk",
+      "value": "sk",
+      "flag": "sk",
+      "text": "斯洛伐克"
+    },
+    {
+      "key": "si",
+      "value": "si",
+      "flag": "si",
+      "text": "斯洛文尼亚"
+    },
+    {
+      "key": "sb",
+      "value": "sb",
+      "flag": "sb",
+      "text": "所罗门群岛"
+    },
+    {
+      "key": "so",
+      "value": "so",
+      "flag": "so",
+      "text": "索马里"
+    },
+    {
+      "key": "za",
+      "value": "za",
+      "flag": "za",
+      "text": "南非"
+    },
+    {
+      "key": "kr",
+      "value": "kr",
+      "flag": "kr",
+      "text": "韩国"
+    },
+    {
+      "key": "es",
+      "value": "es",
+      "flag": "es",
+      "text": "西班牙"
+    },
+    {
+      "key": "lk",
+      "value": "lk",
+      "flag": "lk",
+      "text": "斯里兰卡"
+    },
+    {
+      "key": "sd",
+      "value": "sd",
+      "flag": "sd",
+      "text": "苏丹"
+    },
+    {
+      "key": "sr",
+      "value": "sr",
+      "flag": "sr",
+      "text": "苏里南"
+    },
+    {
+      "key": "sj",
+      "value": "sj",
+      "flag": "sj",
+      "text": "斯瓦尔巴特群岛"
+    },
+    {
+      "key": "sz",
+      "value": "sz",
+      "flag": "sz",
+      "text": "斯威士兰"
+    },
+    {
+      "key": "se",
+      "value": "se",
+      "flag": "se",
+      "text": "瑞典"
+    },
+    {
+      "key": "ch",
+      "value": "ch",
+      "flag": "ch",
+      "text": "瑞士"
+    },
+    {
+      "key": "sy",
+      "value": "sy",
+      "flag": "sy",
+      "text": "叙利亚"
+    },
+    {
+      "key": "tw",
+      "value": "tw",
+      "flag": "tw",
+      "text": "中国台湾"
+    },
+    {
+      "key": "tj",
+      "value": "tj",
+      "flag": "tj",
+      "text": "塔吉克斯坦"
+    },
+    {
+      "key": "tz",
+      "value": "tz",
+      "flag": "tz",
+      "text": "坦桑尼亚"
+    },
+    {
+      "key": "th",
+      "value": "th",
+      "flag": "th",
+      "text": "泰国"
+    },
+    {
+      "key": "tl",
+      "value": "tl",
+      "flag": "tl",
+      "text": "东帝汶"
+    },
+    {
+      "key": "tg",
+      "value": "tg",
+      "flag": "tg",
+      "text": "多哥"
+    },
+    {
+      "key": "tk",
+      "value": "tk",
+      "flag": "tk",
+      "text": "托克劳"
+    },
+    {
+      "key": "to",
+      "value": "to",
+      "flag": "to",
+      "text": "汤加"
+    },
+    {
+      "key": "tt",
+      "value": "tt",
+      "flag": "tt",
+      "text": "特立尼达"
+    },
+    {
+      "key": "tn",
+      "value": "tn",
+      "flag": "tn",
+      "text": "突尼斯"
+    },
+    {
+      "key": "tr",
+      "value": "tr",
+      "flag": "tr",
+      "text": "土耳其"
+    },
+    {
+      "key": "tm",
+      "value": "tm",
+      "flag": "tm",
+      "text": "土库曼斯坦"
+    },
+    {
+      "key": "tv",
+      "value": "tv",
+      "flag": "tv",
+      "text": "图瓦卢"
+    },
+    {
+      "key": "ug",
+      "value": "ug",
+      "flag": "ug",
+      "text": "乌干达"
+    },
+    {
+      "key": "ua",
+      "value": "ua",
+      "flag": "ua",
+      "text": "乌克兰"
+    },
+    {
+      "key": "ae",
+      "value": "ae",
+      "flag": "ae",
+      "text": "阿拉伯联合酋长国"
+    },
+    {
+      "key": "us",
+      "value": "us",
+      "flag": "us",
+      "text": "美国"
+    },
+    {
+      "key": "uy",
+      "value": "uy",
+      "flag": "uy",
+      "text": "乌拉圭"
+    },
+    {
+      "key": "um",
+      "value": "um",
+      "flag": "um",
+      "text": "美国小岛"
+    },
+    {
+      "key": "vi",
+      "value": "vi",
+      "flag": "vi",
+      "text": "美属维尔京群岛"
+    },
+    {
+      "key": "uz",
+      "value": "uz",
+      "flag": "uz",
+      "text": "乌兹别克斯坦"
+    },
+    {
+      "key": "vu",
+      "value": "vu",
+      "flag": "vu",
+      "text": "瓦努阿图"
+    },
+    {
+      "key": "va",
+      "value": "va",
+      "flag": "va",
+      "text": "梵蒂冈城"
+    },
+    {
+      "key": "ve",
+      "value": "ve",
+      "flag": "ve",
+      "text": "委内瑞拉"
+    },
+    {
+      "key": "vn",
+      "value": "vn",
+      "flag": "vn",
+      "text": "越南"
+    },
+    {
+      "key": "wf",
+      "value": "wf",
+      "flag": "wf",
+      "text": "瓦利斯和富图纳群岛"
+    },
+    {
+      "key": "eh",
+      "value": "eh",
+      "flag": "eh",
+      "text": "西撒哈拉"
+    },
+    {
+      "key": "ye",
+      "value": "ye",
+      "flag": "ye",
+      "text": "也门"
+    },
+    {
+      "key": "zm",
+      "value": "zm",
+      "flag": "zm",
+      "text": "赞比亚"
+    },
+    {
+      "key": "zw",
+      "value": "zw",
+      "flag": "zw",
+      "text": "津巴布韦"
+    }
+  ]
+}

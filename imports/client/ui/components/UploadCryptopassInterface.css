@@ -1,0 +1,13 @@
+.UserInterface {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Arial';
+  align-items: center;
+  justify-content: flex-start;
+}
+.UserInterface .main-tabs {
+  max-width: 95vw;
+}
+.UserInterface .main-tabs .tabular.menu {
+  justify-content: center;
+}

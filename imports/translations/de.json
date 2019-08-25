@@ -1,0 +1,1599 @@
+{
+  "lng": "Deutsch",
+  "blockchain": {
+    "Blockchain Logs": "Blockchain-Protokolle"
+  },
+  "navbar": {
+    "Create Cryptopass": "Cryptopass erstellen",
+    "Upload Cryptopass": "Cryptopass hochladen",
+    "Blockchain Logs": "Blockchain-Protokolle"
+  },
+  "fileInput": {
+    "Choose File": "Datei wählen",
+    "No file chosen": "Keine Datei ausgewählt"
+  },
+  "modal": {
+    "Step 4 of 4 Generate your Cryptopass": "Schritt 4 von 4: Generieren Sie Ihren Cryptopass",
+    "Specify password for your Cryptopass": "Geben Sie das Passwort für Ihren Cryptopass ein",
+    "Generate your Cryptopass": "Generieren Sie Ihren Cryptopass",
+    "Upload your Cryptopass": "Laden Sie Ihren Cryptopass hoch",
+    "Extract data from Cryptopass": "Daten aus Cryptopass extrahieren",
+    "Password": "Passwort",
+    "Get your Cryptopass": "Bekommen Sie Ihren Cryptopass"
+  },
+  "viewForm": {
+    "Send for KYC": "Senden Sie für KYC"
+  },
+  "validateForm": {
+    "Approve": "Genehmigen",
+    "Reject": "Ablehnen",
+    "Pending": "Ausstehende Bestätigung",
+    "Approved": "Daten genehmigt",
+    "Rejected": "Daten abgelehnt",
+    "Sent": "Geschickt",
+    "Server Error": "Serverfehler"
+  },
+  "validations": {
+    "A photo should not be empty": "Ein Foto sollte nicht leer sein",
+    "Should be at least 6 characters long": "Soll mindestens 6 Zeichen lang sein",
+    "Should be at least 8 characters long": "Soll mindestens 8 Zeichen lang sein",
+    "Should be at least 10 characters long": "Soll mindestens 10 Zeichen lang sein",
+    "Should not be empty": "Das Feld soll nicht leer sein",
+    "Invalid email address": "Ungültige E-Mail-Adresse",
+    "Email has already been taken": "Diese E-Mail ist bereits vergeben",
+    "Please enter only letters": "Bitte nur Buchstaben eingeben",
+    "Form is not valid": "Die Form ist nicht gültig",
+    "Specify the correct date": "Geben Sie das korrekte Datum an"
+  },
+  "newPassword": {
+    "Change your password": "Ändern Sie Ihr Passwort",
+    "Old password": "Altes Passwort",
+    "New password": "Neues Passwort",
+    "Repeat password": "Passwort wiederholen",
+    "Set new password": "Legen Sie ein neues Passwort fest",
+    "Enter correct confirm password": "Geben Sie das korrekte Passwort ein",
+    "Your password has been changed": "Ihr Passwort wurde geändert",
+    "Incorrect old password": "Falsches altes Passwort"
+  },
+  "login": {
+    "Email": "Email",
+    "Password": "Passwort",
+    "Login": "Einloggen",
+    "Sign up": "Anmelden",
+    "Incorrect credentials": "Falsche Anmeldeinformationen",
+    "Forgot password": "Passwort vergessen?",
+    "Password recovery": "Passwort-Wiederherstellung",
+    "Enter your email address and we will send you a link to reset your password": "Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen einen Link, um Ihr Passwort zurückzusetzen.",
+    "Reset password": "Passwort zurücksetzen",
+    "Account does not exist": "Der Account existiert nicht",
+    "We have sent you an email with a link to reset your password Please check your email": "Wir haben Ihnen eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts gesendet. Bitte überprüfen Sie Ihre E-Mail.",
+    "User not found": "Falsche Anmeldedaten",
+    "Incorrect password": "Falsches Passwort"
+  },
+  "signup": {
+    "I agree to the Terms and Conditions": "Ich stimme den allgemeinen Geschäftsbedingungen zu",
+    "Should be in the format of": "Soll im Format von \"address@mail.com\" sein"
+  },
+  "interface": {
+    "Profile": "Profil",
+    "Logout": "Ausloggen",
+    "Admin": "Admin",
+    "Identity": "Identität",
+    "Address": "Adresse",
+    "Phone": "Telefon",
+    "Email verified": "Email überprüft",
+    "Email unverified": "Email ungeprüft",
+    "Change password": "Passwort ändern",
+    "Next": "Weiter"
+  },
+  "phone": {
+    "Step 3 of 4 verify your phone number": "Schritt 3 von 4: Bestätigen Sie Ihre Telefonnummer",
+    "Verify your phone number": "Bestätigen Sie Ihre Telefonnummer",
+    "Phone number": "Telefonnummer",
+    "Submit": "Übermitteln",
+    "Verify": "Bestätigen",
+    "You need to fill in all the fields": "Sie müssen alle Felder ausfüllen,",
+    "before submitting the form data": "bevor Sie die Formulardaten übermitteln",
+    "Thank you Your data has been submitted": "Vielen Dank. Ihre Daten wurden übermittelt.",
+    "Your will be notified by email of verification results": "Sie werden per Email über die Überprüfungsergebnisse informiert"
+  },
+  "address": {
+    "Step 2 of 4 verify your address": "Schritt 2 von 4: Bestätigen Sie Ihre Adresse",
+    "Verify your address": "Bestätigen Sie Ihre Adresse",
+    "Country": "Staat",
+    "City": "Stadt",
+    "Address": "Adresse",
+    "Please attach legal documents confirming your address": "Bitte fügen Sie rechtliche Dokumente bei, die Ihre Adresse bestätigen",
+    "Legal documents confirming your address": "Legale Dokumente, die Ihre Adresse bestätigen",
+    "Select files": "Dateien auswählen",
+    "You have already submitted your documents": "Sie haben Ihre Documente bereits eingereicht",
+    "Submit": "Übermitteln",
+    "Required photos": "Benötigte Fotos:",
+    "Passport page / ID card side showing address of registration": "Pass-Seite / Personalausweis-Seite mit der Adresse der Registrierung",
+    "Additional document from the list as address confirmation": "Zusätzliches Dokument aus der Liste als Adressbestätigung:",
+    "utility bills (gas, water, phone, etc)": "Stromrechnungen (Gas, Wasser, Telefon, etc.)",
+    "official bank statements": "offizielle Kontoauszüge",
+    "tax authority letters or other official documents": "Briefe aus Steuerbehörden oder andere offizielle Dokumente",
+    "Additional document must be not more than 6 months old": "Zusätzliches Dokument darf nicht älter als 6 Monate sein",
+    "photos": {
+      "Submitted photos must adhere to the following requirements": "Eingereichte Fotos müssen den folgenden Anforderungen entsprechen:",
+      "Photos must depict account owner": "Fotos müssen den Kontoinhaber darstellen;",
+      "Resolution must be no less than 600x600 pixels": "Die Auflösung darf nicht weniger als 600x600 Pixel betragen;",
+      "Photos must be crisp, not blurred": "Fotos müssen gestochen scharf und nicht vernebelt sein;",
+      "No part of your documents must be covered or obscured by fingers": "Kein Teil Ihrer Dokumente muss mit den Fingern verdeckt oder überschattet sein;",
+      "All the data must be clearly visible": "Alle Daten müssen deutlich sichtbar sein;",
+      "File size must not exceed 2 mb": "Die Dateigröße darf 2 MB nicht überschreiten;",
+      "Accepted formats are JPEG, JPG, PNG": "Akzeptable Formate sind JPEG, JPG, PNG"
+    }
+  },
+  "identity": {
+    "Step 1 of 4 verify your identity": "Schritt 1 von 4: Bestätigen Sie Ihre Identität",
+    "Verify your identity": "Bestätigen Sie Ihre Telefonnummer",
+    "First Name": "Vorname",
+    "Last Name": "Familienname",
+    "Date of birth": "Geburtsdatum",
+    "DD MM YYYY": "DD.MM.JJJJ",
+    "Place of birth": "Geburtsort",
+    "Citizenship": "Staatsangehörigkeit",
+    "Passport / national ID number": "Passnummer / nationale ID-Nummer",
+    "Issued by": "Ausgestellt durch",
+    "Issue date": "Ausstellungsdatum",
+    "Expiry date": "Verfallsdatum",
+    "Please attach legal documents confirming your identity": "Bitte fügen Sie rechtliche Dokumente bei, die Ihre Identität bestätigen",
+    "Legal documents confirming your identity": "Legale Dokumente, die Ihre Identität bestätigen",
+    "Requirements": "Anforderungen",
+    "Photos required": "Benötigte Fotos",
+    "Your passport / ID card": "Ihr Pass / Personalausweis",
+    "Selfie with passport / ID card": "Selfie mit Pass / Personalausweis",
+    "You should hold it by the edge and close to your face so that we can verify that this document really belongs to you Both your face and the picture on the document should be clearly visible and any text on the document must be readable and not be covered by your fingers": "Sie sollen ihn an der Kante und nahe an Ihrem Gesicht halten, damit wir überprüfen können, ob dieses Dokument Ihnen wirklich gehört. Sowohl Ihr Gesicht als auch das Bild auf dem Dokument sollen gut sichtbar sein und jeder Text auf dem Dokument muss lesbar und nicht mit den Fingern verdeckt sein.",
+    "If you dont have a passport / ID card – please upload a photo of another official document to verify your identity": "Wenn Sie keinen Pass / Personalausweis haben, laden Sie bitte ein Foto eines anderen offiziellen Dokuments hoch, um Ihre Identität zu überprüfen.",
+    "Select a file": "Datei auswählen",
+    "Select file for OCR": "Datei für OCR auswählen",
+    "If your document has no expiry data, specify any date that is significantly later than the current date (for example, 50 years from now)": "Wenn Ihr Dokument kein Verfallsdatum enthält, geben Sie ein Datum an, das erheblich später als das aktuelle Datum ist (z. B. in 50 Jahren)."
+  },
+  "notify": {
+    "Within a few seconds, your Cryptopass archive will be downloaded": "Innerhalb weniger Sekunden wird Ihr Cryptopass-Archiv heruntergeladen"
+  },
+  "countries": [
+    {
+      "key": "af",
+      "value": "af",
+      "flag": "af",
+      "text": "Afghanistan"
+    },
+    {
+      "key": "ax",
+      "value": "ax",
+      "flag": "ax",
+      "text": "Åland"
+    },
+    {
+      "key": "al",
+      "value": "al",
+      "flag": "al",
+      "text": "Albanien"
+    },
+    {
+      "key": "dz",
+      "value": "dz",
+      "flag": "dz",
+      "text": "Algerien"
+    },
+    {
+      "key": "as",
+      "value": "as",
+      "flag": "as",
+      "text": "Amerikanisch-Samoa"
+    },
+    {
+      "key": "ad",
+      "value": "ad",
+      "flag": "ad",
+      "text": "Andorra"
+    },
+    {
+      "key": "ao",
+      "value": "ao",
+      "flag": "ao",
+      "text": "Angola"
+    },
+    {
+      "key": "ai",
+      "value": "ai",
+      "flag": "ai",
+      "text": "Anguilla"
+    },
+    {
+      "key": "ag",
+      "value": "ag",
+      "flag": "ag",
+      "text": "Antigua und Barbuda"
+    },
+    {
+      "key": "ar",
+      "value": "ar",
+      "flag": "ar",
+      "text": "Argentinien"
+    },
+    {
+      "key": "am",
+      "value": "am",
+      "flag": "am",
+      "text": "Armenien"
+    },
+    {
+      "key": "aw",
+      "value": "aw",
+      "flag": "aw",
+      "text": "Aruba"
+    },
+    {
+      "key": "au",
+      "value": "au",
+      "flag": "au",
+      "text": "Australien"
+    },
+    {
+      "key": "at",
+      "value": "at",
+      "flag": "at",
+      "text": "Österreich"
+    },
+    {
+      "key": "az",
+      "value": "az",
+      "flag": "az",
+      "text": "Aserbaidschan"
+    },
+    {
+      "key": "bs",
+      "value": "bs",
+      "flag": "bs",
+      "text": "Bahamas"
+    },
+    {
+      "key": "bh",
+      "value": "bh",
+      "flag": "bh",
+      "text": "Bahrain"
+    },
+    {
+      "key": "bd",
+      "value": "bd",
+      "flag": "bd",
+      "text": "Bangladesch"
+    },
+    {
+      "key": "bb",
+      "value": "bb",
+      "flag": "bb",
+      "text": "Barbados"
+    },
+    {
+      "key": "by",
+      "value": "by",
+      "flag": "by",
+      "text": "Belarus"
+    },
+    {
+      "key": "be",
+      "value": "be",
+      "flag": "be",
+      "text": "Belgien"
+    },
+    {
+      "key": "bz",
+      "value": "bz",
+      "flag": "bz",
+      "text": "Belize"
+    },
+    {
+      "key": "bj",
+      "value": "bj",
+      "flag": "bj",
+      "text": "Benin"
+    },
+    {
+      "key": "bm",
+      "value": "bm",
+      "flag": "bm",
+      "text": "Bermuda"
+    },
+    {
+      "key": "bt",
+      "value": "bt",
+      "flag": "bt",
+      "text": "Bhutan"
+    },
+    {
+      "key": "bo",
+      "value": "bo",
+      "flag": "bo",
+      "text": "Bolivien"
+    },
+    {
+      "key": "ba",
+      "value": "ba",
+      "flag": "ba",
+      "text": "Bosnien und Herzegowina"
+    },
+    {
+      "key": "bw",
+      "value": "bw",
+      "flag": "bw",
+      "text": "Botswana"
+    },
+    {
+      "key": "bv",
+      "value": "bv",
+      "flag": "bv",
+      "text": "Bouvetinsel"
+    },
+    {
+      "key": "br",
+      "value": "br",
+      "flag": "br",
+      "text": "Brasilien"
+    },
+    {
+      "key": "vg",
+      "value": "vg",
+      "flag": "vg",
+      "text": "Britische Jungferninseln"
+    },
+    {
+      "key": "bn",
+      "value": "bn",
+      "flag": "bn",
+      "text": "Brunei"
+    },
+    {
+      "key": "bg",
+      "value": "bg",
+      "flag": "bg",
+      "text": "Bulgarien"
+    },
+    {
+      "key": "bf",
+      "value": "bf",
+      "flag": "bf",
+      "text": "Burkina Faso"
+    },
+    {
+      "key": "bi",
+      "value": "bi",
+      "flag": "bi",
+      "text": "Burundi"
+    },
+    {
+      "key": "tc",
+      "value": "tc",
+      "flag": "tc",
+      "text": "Turks- und Caicosinseln"
+    },
+    {
+      "key": "kh",
+      "value": "kh",
+      "flag": "kh",
+      "text": "Kambodscha"
+    },
+    {
+      "key": "cm",
+      "value": "cm",
+      "flag": "cm",
+      "text": "Kamerun"
+    },
+    {
+      "key": "ca",
+      "value": "ca",
+      "flag": "ca",
+      "text": "Kanada"
+    },
+    {
+      "key": "cv",
+      "value": "cv",
+      "flag": "cv",
+      "text": "Kap Verde"
+    },
+    {
+      "key": "ky",
+      "value": "ky",
+      "flag": "ky",
+      "text": "Kaimaninseln"
+    },
+    {
+      "key": "cf",
+      "value": "cf",
+      "flag": "cf",
+      "text": "Zentralafrikanische Republik"
+    },
+    {
+      "key": "td",
+      "value": "td",
+      "flag": "td",
+      "text": "Tschad"
+    },
+    {
+      "key": "cl",
+      "value": "cl",
+      "flag": "cl",
+      "text": "Chile"
+    },
+    {
+      "key": "cn",
+      "value": "cn",
+      "flag": "cn",
+      "text": "China"
+    },
+    {
+      "key": "cx",
+      "value": "cx",
+      "flag": "cx",
+      "text": "Weihnachtsinsel"
+    },
+    {
+      "key": "cc",
+      "value": "cc",
+      "flag": "cc",
+      "text": "Kokosinseln"
+    },
+    {
+      "key": "co",
+      "value": "co",
+      "flag": "co",
+      "text": "Kolumbien"
+    },
+    {
+      "key": "km",
+      "value": "km",
+      "flag": "km",
+      "text": "Komoren"
+    },
+    {
+      "key": "cg",
+      "value": "cg",
+      "flag": "cg",
+      "text": "Kongo"
+    },
+    {
+      "key": "cd",
+      "value": "cd",
+      "flag": "cd",
+      "text": "Demokratische Republik Kongo"
+    },
+    {
+      "key": "ck",
+      "value": "ck",
+      "flag": "ck",
+      "text": "Cookinseln"
+    },
+    {
+      "key": "cr",
+      "value": "cr",
+      "flag": "cr",
+      "text": "Costa Rica"
+    },
+    {
+      "key": "ci",
+      "value": "ci",
+      "flag": "ci",
+      "text": "Elfenbeinküste"
+    },
+    {
+      "key": "hr",
+      "value": "hr",
+      "flag": "hr",
+      "text": "Kroatien"
+    },
+    {
+      "key": "cu",
+      "value": "cu",
+      "flag": "cu",
+      "text": "Kuba"
+    },
+    {
+      "key": "cy",
+      "value": "cy",
+      "flag": "cy",
+      "text": "Zypern"
+    },
+    {
+      "key": "cz",
+      "value": "cz",
+      "flag": "cz",
+      "text": "Tschechische Republik"
+    },
+    {
+      "key": "dk",
+      "value": "dk",
+      "flag": "dk",
+      "text": "Dänemark"
+    },
+    {
+      "key": "dj",
+      "value": "dj",
+      "flag": "dj",
+      "text": "Dschibuti"
+    },
+    {
+      "key": "dm",
+      "value": "dm",
+      "flag": "dm",
+      "text": "Dominica"
+    },
+    {
+      "key": "do",
+      "value": "do",
+      "flag": "do",
+      "text": "Dominikanische Republik"
+    },
+    {
+      "key": "ec",
+      "value": "ec",
+      "flag": "ec",
+      "text": "Ecuador"
+    },
+    {
+      "key": "eg",
+      "value": "eg",
+      "flag": "eg",
+      "text": "Ägypten"
+    },
+    {
+      "key": "sv",
+      "value": "sv",
+      "flag": "sv",
+      "text": "El Salvador"
+    },
+    {
+      "key": "gb",
+      "value": "gb",
+      "flag": "gb",
+      "text": "Großbritannien"
+    },
+    {
+      "key": "gq",
+      "value": "gq",
+      "flag": "gq",
+      "text": "Äquatorialguinea"
+    },
+    {
+      "key": "er",
+      "value": "er",
+      "flag": "er",
+      "text": "Eritrea"
+    },
+    {
+      "key": "ee",
+      "value": "ee",
+      "flag": "ee",
+      "text": "Estland"
+    },
+    {
+      "key": "et",
+      "value": "et",
+      "flag": "et",
+      "text": "Äthiopien"
+    },
+    {
+      "key": "eu",
+      "value": "eu",
+      "flag": "eu",
+      "text": "Europäische Union"
+    },
+    {
+      "key": "fk",
+      "value": "fk",
+      "flag": "fk",
+      "text": "Falklandinseln"
+    },
+    {
+      "key": "fo",
+      "value": "fo",
+      "flag": "fo",
+      "text": "Färöer"
+    },
+    {
+      "key": "fj",
+      "value": "fj",
+      "flag": "fj",
+      "text": "Fidschi"
+    },
+    {
+      "key": "fi",
+      "value": "fi",
+      "flag": "fi",
+      "text": "Finnland"
+    },
+    {
+      "key": "fr",
+      "value": "fr",
+      "flag": "fr",
+      "text": "Frankreich"
+    },
+    {
+      "key": "gf",
+      "value": "gf",
+      "flag": "gf",
+      "text": "Französisch-Guayana"
+    },
+    {
+      "key": "pf",
+      "value": "pf",
+      "flag": "pf",
+      "text": "Französisch-Polynesien"
+    },
+    {
+      "key": "tf",
+      "value": "tf",
+      "flag": "tf",
+      "text": "Französische Gebiete im südlichen Indischen Ozean"
+    },
+    {
+      "key": "ga",
+      "value": "ga",
+      "flag": "ga",
+      "text": "Gabun"
+    },
+    {
+      "key": "gm",
+      "value": "gm",
+      "flag": "gm",
+      "text": "Gambia"
+    },
+    {
+      "key": "ge",
+      "value": "ge",
+      "flag": "ge",
+      "text": "Georgien"
+    },
+    {
+      "key": "de",
+      "value": "de",
+      "flag": "de",
+      "text": "Deutschland"
+    },
+    {
+      "key": "gh",
+      "value": "gh",
+      "flag": "gh",
+      "text": "Ghana"
+    },
+    {
+      "key": "gi",
+      "value": "gi",
+      "flag": "gi",
+      "text": "Gibraltar"
+    },
+    {
+      "key": "gr",
+      "value": "gr",
+      "flag": "gr",
+      "text": "Griechenland"
+    },
+    {
+      "key": "gl",
+      "value": "gl",
+      "flag": "gl",
+      "text": "Grönland"
+    },
+    {
+      "key": "gd",
+      "value": "gd",
+      "flag": "gd",
+      "text": "Grenada"
+    },
+    {
+      "key": "gp",
+      "value": "gp",
+      "flag": "gp",
+      "text": "Guadeloupe"
+    },
+    {
+      "key": "gu",
+      "value": "gu",
+      "flag": "gu",
+      "text": "Guam"
+    },
+    {
+      "key": "gt",
+      "value": "gt",
+      "flag": "gt",
+      "text": "Guatemala"
+    },
+    {
+      "key": "gw",
+      "value": "gw",
+      "flag": "gw",
+      "text": "Guinea-Bissau"
+    },
+    {
+      "key": "gn",
+      "value": "gn",
+      "flag": "gn",
+      "text": "Guinea"
+    },
+    {
+      "key": "gy",
+      "value": "gy",
+      "flag": "gy",
+      "text": "Guyana"
+    },
+    {
+      "key": "ht",
+      "value": "ht",
+      "flag": "ht",
+      "text": "Haiti"
+    },
+    {
+      "key": "hm",
+      "value": "hm",
+      "flag": "hm",
+      "text": "Heard und McDonaldinseln"
+    },
+    {
+      "key": "hn",
+      "value": "hn",
+      "flag": "hn",
+      "text": "Honduras"
+    },
+    {
+      "key": "hk",
+      "value": "hk",
+      "flag": "hk",
+      "text": "Hongkong"
+    },
+    {
+      "key": "hu",
+      "value": "hu",
+      "flag": "hu",
+      "text": "Ungarn"
+    },
+    {
+      "key": "is",
+      "value": "is",
+      "flag": "is",
+      "text": "Island"
+    },
+    {
+      "key": "in",
+      "value": "in",
+      "flag": "in",
+      "text": "Indien"
+    },
+    {
+      "key": "io",
+      "value": "io",
+      "flag": "io",
+      "text": "Britisches Territorium im Indischen Ozean"
+    },
+    {
+      "key": "id",
+      "value": "id",
+      "flag": "id",
+      "text": "Indonesien"
+    },
+    {
+      "key": "ir",
+      "value": "ir",
+      "flag": "ir",
+      "text": "Iran"
+    },
+    {
+      "key": "iq",
+      "value": "iq",
+      "flag": "iq",
+      "text": "Irak"
+    },
+    {
+      "key": "ie",
+      "value": "ie",
+      "flag": "ie",
+      "text": "Irland"
+    },
+    {
+      "key": "il",
+      "value": "il",
+      "flag": "il",
+      "text": "Israel"
+    },
+    {
+      "key": "it",
+      "value": "it",
+      "flag": "it",
+      "text": "Italien"
+    },
+    {
+      "key": "jm",
+      "value": "jm",
+      "flag": "jm",
+      "text": "Jamaica"
+    },
+    {
+      "key": "jp",
+      "value": "jp",
+      "flag": "jp",
+      "text": "Japan"
+    },
+    {
+      "key": "jo",
+      "value": "jo",
+      "flag": "jo",
+      "text": "Jordanien"
+    },
+    {
+      "key": "kz",
+      "value": "kz",
+      "flag": "kz",
+      "text": "Kasachstan"
+    },
+    {
+      "key": "ke",
+      "value": "ke",
+      "flag": "ke",
+      "text": "Kenia"
+    },
+    {
+      "key": "ki",
+      "value": "ki",
+      "flag": "ki",
+      "text": "Kiribati"
+    },
+    {
+      "key": "kw",
+      "value": "kw",
+      "flag": "kw",
+      "text": "Kuwait"
+    },
+    {
+      "key": "kg",
+      "value": "kg",
+      "flag": "kg",
+      "text": "Kirgisistan"
+    },
+    {
+      "key": "la",
+      "value": "la",
+      "flag": "la",
+      "text": "Laos"
+    },
+    {
+      "key": "lv",
+      "value": "lv",
+      "flag": "lv",
+      "text": "Lettland"
+    },
+    {
+      "key": "lb",
+      "value": "lb",
+      "flag": "lb",
+      "text": "Libanon"
+    },
+    {
+      "key": "ls",
+      "value": "ls",
+      "flag": "ls",
+      "text": "Lesotho"
+    },
+    {
+      "key": "lr",
+      "value": "lr",
+      "flag": "lr",
+      "text": "Liberia"
+    },
+    {
+      "key": "ly",
+      "value": "ly",
+      "flag": "ly",
+      "text": "Libyen"
+    },
+    {
+      "key": "li",
+      "value": "li",
+      "flag": "li",
+      "text": "Liechtenstein"
+    },
+    {
+      "key": "lt",
+      "value": "lt",
+      "flag": "lt",
+      "text": "Litauen"
+    },
+    {
+      "key": "lu",
+      "value": "lu",
+      "flag": "lu",
+      "text": "Luxemburg"
+    },
+    {
+      "key": "mo",
+      "value": "mo",
+      "flag": "mo",
+      "text": "Macao"
+    },
+    {
+      "key": "mk",
+      "value": "mk",
+      "flag": "mk",
+      "text": "ehemalige jugoslawische Republik Mazedonien"
+    },
+    {
+      "key": "mg",
+      "value": "mg",
+      "flag": "mg",
+      "text": "Madagaskar"
+    },
+    {
+      "key": "mw",
+      "value": "mw",
+      "flag": "mw",
+      "text": "Malawi"
+    },
+    {
+      "key": "my",
+      "value": "my",
+      "flag": "my",
+      "text": "Malaysia"
+    },
+    {
+      "key": "mv",
+      "value": "mv",
+      "flag": "mv",
+      "text": "Malediven"
+    },
+    {
+      "key": "ml",
+      "value": "ml",
+      "flag": "ml",
+      "text": "Mali"
+    },
+    {
+      "key": "mt",
+      "value": "mt",
+      "flag": "mt",
+      "text": "Malta"
+    },
+    {
+      "key": "mh",
+      "value": "mh",
+      "flag": "mh",
+      "text": "Marshallinseln"
+    },
+    {
+      "key": "mq",
+      "value": "mq",
+      "flag": "mq",
+      "text": "Martinique"
+    },
+    {
+      "key": "mr",
+      "value": "mr",
+      "flag": "mr",
+      "text": "Mauretanien"
+    },
+    {
+      "key": "mu",
+      "value": "mu",
+      "flag": "mu",
+      "text": "Mauritius"
+    },
+    {
+      "key": "yt",
+      "value": "yt",
+      "flag": "yt",
+      "text": "Mayotte"
+    },
+    {
+      "key": "mx",
+      "value": "mx",
+      "flag": "mx",
+      "text": "Mexiko"
+    },
+    {
+      "key": "fm",
+      "value": "fm",
+      "flag": "fm",
+      "text": "Mikronesien"
+    },
+    {
+      "key": "md",
+      "value": "md",
+      "flag": "md",
+      "text": "Moldawien"
+    },
+    {
+      "key": "mc",
+      "value": "mc",
+      "flag": "mc",
+      "text": "Monaco"
+    },
+    {
+      "key": "mn",
+      "value": "mn",
+      "flag": "mn",
+      "text": "Mongolei"
+    },
+    {
+      "key": "me",
+      "value": "me",
+      "flag": "me",
+      "text": "Montenegro"
+    },
+    {
+      "key": "ms",
+      "value": "ms",
+      "flag": "ms",
+      "text": "Montserrat"
+    },
+    {
+      "key": "ma",
+      "value": "ma",
+      "flag": "ma",
+      "text": "Morocco"
+    },
+    {
+      "key": "mz",
+      "value": "mz",
+      "flag": "mz",
+      "text": "Mosambik"
+    },
+    {
+      "key": "na",
+      "value": "na",
+      "flag": "na",
+      "text": "Namibia"
+    },
+    {
+      "key": "nr",
+      "value": "nr",
+      "flag": "nr",
+      "text": "Nauru"
+    },
+    {
+      "key": "np",
+      "value": "np",
+      "flag": "np",
+      "text": "Nepal"
+    },
+    {
+      "key": "an",
+      "value": "an",
+      "flag": "an",
+      "text": "Niederländische Antillen"
+    },
+    {
+      "key": "nl",
+      "value": "nl",
+      "flag": "nl",
+      "text": "Niederlande"
+    },
+    {
+      "key": "nc",
+      "value": "nc",
+      "flag": "nc",
+      "text": "Neukaledonien"
+    },
+    {
+      "key": "pg",
+      "value": "pg",
+      "flag": "pg",
+      "text": "Papua-Neuguinea"
+    },
+    {
+      "key": "nz",
+      "value": "nz",
+      "flag": "nz",
+      "text": "Neuseeland"
+    },
+    {
+      "key": "ni",
+      "value": "ni",
+      "flag": "ni",
+      "text": "Nicaragua"
+    },
+    {
+      "key": "ne",
+      "value": "ne",
+      "flag": "ne",
+      "text": "Niger"
+    },
+    {
+      "key": "ng",
+      "value": "ng",
+      "flag": "ng",
+      "text": "Nigeria"
+    },
+    {
+      "key": "nu",
+      "value": "nu",
+      "flag": "nu",
+      "text": "Niue"
+    },
+    {
+      "key": "nf",
+      "value": "nf",
+      "flag": "nf",
+      "text": "Norfolkinsel"
+    },
+    {
+      "key": "kp",
+      "value": "kp",
+      "flag": "kp",
+      "text": "Nordkorea"
+    },
+    {
+      "key": "mp",
+      "value": "mp",
+      "flag": "mp",
+      "text": "Nördliche Marianen"
+    },
+    {
+      "key": "no",
+      "value": "no",
+      "flag": "no",
+      "text": "Norwegen"
+    },
+    {
+      "key": "om",
+      "value": "om",
+      "flag": "om",
+      "text": "Oman"
+    },
+    {
+      "key": "pk",
+      "value": "pk",
+      "flag": "pk",
+      "text": "Pakistan"
+    },
+    {
+      "key": "pw",
+      "value": "pw",
+      "flag": "pw",
+      "text": "Palau"
+    },
+    {
+      "key": "ps",
+      "value": "ps",
+      "flag": "ps",
+      "text": "Palestine"
+    },
+    {
+      "key": "pa",
+      "value": "pa",
+      "flag": "pa",
+      "text": "Panama"
+    },
+    {
+      "key": "py",
+      "value": "py",
+      "flag": "py",
+      "text": "Paraguay"
+    },
+    {
+      "key": "pe",
+      "value": "pe",
+      "flag": "pe",
+      "text": "Peru"
+    },
+    {
+      "key": "ph",
+      "value": "ph",
+      "flag": "ph",
+      "text": "Philippinen"
+    },
+    {
+      "key": "pn",
+      "value": "pn",
+      "flag": "pn",
+      "text": "Pitcairninseln"
+    },
+    {
+      "key": "pl",
+      "value": "pl",
+      "flag": "pl",
+      "text": "Polen"
+    },
+    {
+      "key": "pt",
+      "value": "pt",
+      "flag": "pt",
+      "text": "Portugal"
+    },
+    {
+      "key": "pr",
+      "value": "pr",
+      "flag": "pr",
+      "text": "Puerto Rico"
+    },
+    {
+      "key": "qa",
+      "value": "qa",
+      "flag": "qa",
+      "text": "Katar"
+    },
+    {
+      "key": "re",
+      "value": "re",
+      "flag": "re",
+      "text": "Réunion"
+    },
+    {
+      "key": "ro",
+      "value": "ro",
+      "flag": "ro",
+      "text": "Rumänien"
+    },
+    {
+      "key": "ru",
+      "value": "ru",
+      "flag": "ru",
+      "text": "Russland"
+    },
+    {
+      "key": "rw",
+      "value": "rw",
+      "flag": "rw",
+      "text": "Ruanda"
+    },
+    {
+      "key": "sh",
+      "value": "sh",
+      "flag": "sh",
+      "text": "Saint Helena"
+    },
+    {
+      "key": "kn",
+      "value": "kn",
+      "flag": "kn",
+      "text": "Saint Kitts and Nevis"
+    },
+    {
+      "key": "lc",
+      "value": "lc",
+      "flag": "lc",
+      "text": "Saint Lucia"
+    },
+    {
+      "key": "pm",
+      "value": "pm",
+      "flag": "pm",
+      "text": "Saint Pierre und Miquelon"
+    },
+    {
+      "key": "vc",
+      "value": "vc",
+      "flag": "vc",
+      "text": "Saint Vincent und die Grenadinen"
+    },
+    {
+      "key": "ws",
+      "value": "ws",
+      "flag": "ws",
+      "text": "Samoa"
+    },
+    {
+      "key": "sm",
+      "value": "sm",
+      "flag": "sm",
+      "text": "San Marino"
+    },
+    {
+      "key": "gs",
+      "value": "gs",
+      "flag": "gs",
+      "text": "Südgeorgien und Südliche Sandwichinseln"
+    },
+    {
+      "key": "st",
+      "value": "st",
+      "flag": "st",
+      "text": "São Tomé und Príncipe"
+    },
+    {
+      "key": "sa",
+      "value": "sa",
+      "flag": "sa",
+      "text": "Saudi-Arabien"
+    },
+    {
+      "key": "sn",
+      "value": "sn",
+      "flag": "sn",
+      "text": "Senegal"
+    },
+    {
+      "key": "rs",
+      "value": "rs",
+      "flag": "rs",
+      "text": "Serbia"
+    },
+    {
+      "key": "sc",
+      "value": "sc",
+      "flag": "sc",
+      "text": "Seychellen"
+    },
+    {
+      "key": "sl",
+      "value": "sl",
+      "flag": "sl",
+      "text": "Sierra Leone"
+    },
+    {
+      "key": "sg",
+      "value": "sg",
+      "flag": "sg",
+      "text": "Singapur"
+    },
+    {
+      "key": "sk",
+      "value": "sk",
+      "flag": "sk",
+      "text": "Slowakei"
+    },
+    {
+      "key": "si",
+      "value": "si",
+      "flag": "si",
+      "text": "Slowenien"
+    },
+    {
+      "key": "sb",
+      "value": "sb",
+      "flag": "sb",
+      "text": "Salomonen"
+    },
+    {
+      "key": "so",
+      "value": "so",
+      "flag": "so",
+      "text": "Somalia"
+    },
+    {
+      "key": "za",
+      "value": "za",
+      "flag": "za",
+      "text": "Südafrika"
+    },
+    {
+      "key": "kr",
+      "value": "kr",
+      "flag": "kr",
+      "text": "Südkorea"
+    },
+    {
+      "key": "es",
+      "value": "es",
+      "flag": "es",
+      "text": "Spanien"
+    },
+    {
+      "key": "lk",
+      "value": "lk",
+      "flag": "lk",
+      "text": "Sri Lanka"
+    },
+    {
+      "key": "sd",
+      "value": "sd",
+      "flag": "sd",
+      "text": "Sudan"
+    },
+    {
+      "key": "sr",
+      "value": "sr",
+      "flag": "sr",
+      "text": "Suriname"
+    },
+    {
+      "key": "sj",
+      "value": "sj",
+      "flag": "sj",
+      "text": "Svalbard und Jan Mayen"
+    },
+    {
+      "key": "sz",
+      "value": "sz",
+      "flag": "sz",
+      "text": "Swasiland"
+    },
+    {
+      "key": "se",
+      "value": "se",
+      "flag": "se",
+      "text": "Schweden"
+    },
+    {
+      "key": "ch",
+      "value": "ch",
+      "flag": "ch",
+      "text": "Schweiz"
+    },
+    {
+      "key": "sy",
+      "value": "sy",
+      "flag": "sy",
+      "text": "Syrien"
+    },
+    {
+      "key": "tw",
+      "value": "tw",
+      "flag": "tw",
+      "text": "Taiwan"
+    },
+    {
+      "key": "tj",
+      "value": "tj",
+      "flag": "tj",
+      "text": "Tadschikistan"
+    },
+    {
+      "key": "tz",
+      "value": "tz",
+      "flag": "tz",
+      "text": "Tanzania"
+    },
+    {
+      "key": "th",
+      "value": "th",
+      "flag": "th",
+      "text": "Thailand"
+    },
+    {
+      "key": "tl",
+      "value": "tl",
+      "flag": "tl",
+      "text": "Osttimor"
+    },
+    {
+      "key": "tg",
+      "value": "tg",
+      "flag": "tg",
+      "text": "Togo"
+    },
+    {
+      "key": "tk",
+      "value": "tk",
+      "flag": "tk",
+      "text": "Tokelau"
+    },
+    {
+      "key": "to",
+      "value": "to",
+      "flag": "to",
+      "text": "Tonga"
+    },
+    {
+      "key": "tt",
+      "value": "tt",
+      "flag": "tt",
+      "text": "Trinidad und Tobago"
+    },
+    {
+      "key": "tn",
+      "value": "tn",
+      "flag": "tn",
+      "text": "Tunesien"
+    },
+    {
+      "key": "tr",
+      "value": "tr",
+      "flag": "tr",
+      "text": "Türkei"
+    },
+    {
+      "key": "tm",
+      "value": "tm",
+      "flag": "tm",
+      "text": "Turkmenistan"
+    },
+    {
+      "key": "tv",
+      "value": "tv",
+      "flag": "tv",
+      "text": "Tuvalu"
+    },
+    {
+      "key": "ug",
+      "value": "ug",
+      "flag": "ug",
+      "text": "Uganda"
+    },
+    {
+      "key": "ua",
+      "value": "ua",
+      "flag": "ua",
+      "text": "Ukraine"
+    },
+    {
+      "key": "ae",
+      "value": "ae",
+      "flag": "ae",
+      "text": "Vereinigte Arabische Emirate"
+    },
+    {
+      "key": "us",
+      "value": "us",
+      "flag": "us",
+      "text": "Vereinigte Staaten von Amerika"
+    },
+    {
+      "key": "uy",
+      "value": "uy",
+      "flag": "uy",
+      "text": "Uruguay"
+    },
+    {
+      "key": "um",
+      "value": "um",
+      "flag": "um",
+      "text": "Kleinere amerikanische Überseeinseln"
+    },
+    {
+      "key": "vi",
+      "value": "vi",
+      "flag": "vi",
+      "text": "Amerikanische Jungferninseln"
+    },
+    {
+      "key": "uz",
+      "value": "uz",
+      "flag": "uz",
+      "text": "Usbekistan"
+    },
+    {
+      "key": "vu",
+      "value": "vu",
+      "flag": "vu",
+      "text": "Vanuatu"
+    },
+    {
+      "key": "va",
+      "value": "va",
+      "flag": "va",
+      "text": "Vatikanstadt"
+    },
+    {
+      "key": "ve",
+      "value": "ve",
+      "flag": "ve",
+      "text": "Venezuela"
+    },
+    {
+      "key": "vn",
+      "value": "vn",
+      "flag": "vn",
+      "text": "Vietnam"
+    },
+    {
+      "key": "wf",
+      "value": "wf",
+      "flag": "wf",
+      "text": "Wallis und Futuna"
+    },
+    {
+      "key": "eh",
+      "value": "eh",
+      "flag": "eh",
+      "text": "Westsahara"
+    },
+    {
+      "key": "ye",
+      "value": "ye",
+      "flag": "ye",
+      "text": "Yemen"
+    },
+    {
+      "key": "zm",
+      "value": "zm",
+      "flag": "zm",
+      "text": "Sambia"
+    },
+    {
+      "key": "zw",
+      "value": "zw",
+      "flag": "zw",
+      "text": "Simbabwe"
+    }
+  ]
+}

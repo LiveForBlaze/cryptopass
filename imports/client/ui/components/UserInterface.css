@@ -1,0 +1,66 @@
+html {
+	scroll-behavior: smooth;
+}
+.UserInterface {
+	font-family:'Arial';
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.UserInterface .ui.fluid.container {
+	max-width: 1227px !important;
+}
+
+.UserInterface .main-tabs {
+	max-width:95vw;
+}
+
+.UserInterface .main-tabs .tabular.menu {
+	-webkit-box-pack:center;
+	-ms-flex-pack:center;
+	justify-content:center;
+}
+
+i.flag:not(.icon):before {
+	background-image: url('https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/themes/default/assets/images/flags.png');
+}
+
+.ui.dropdown .menu.right {
+	left: auto;
+	right: 0;
+}
+
+.text-success { color: #2c662d;  }
+.text-danger { color: #9f3a38;  }
+.text-white { color: #fff !important; }
+.font-weight-bold { font-weight: bold;  }
+
+.ui.menu.user-interface-menu {
+	width: 100vw;
+	height: 50px;
+	background: #1d232c;
+	border-width: 0;
+	box-shadow: none;
+	margin-bottom: 30px;
+	border-radius: 0;
+}
+
+.ui.menu.user-interface-menu .item {
+	color: #fff;
+}
+
+.ui.menu.user-interface-menu .item:hover,
+.ui.menu.user-interface-menu .item.active,
+.ui.menu.user-interface-menu .item.active:hover {
+	color: #fff;
+	background-color: transparent;
+}
+
+.ui.menu.user-interface-menu .item:before {
+	display: none;
+}
+
+.ui.menu.user-interface-menu .ui.dropdown .menu:not(.visible) {
+	display: none;
+}

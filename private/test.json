@@ -1,0 +1,21 @@
+{
+  "identity": {
+    "firstName": "ALIAKSANDR",
+    "lastName": "PERVIJ",
+    "dateOfBirth": "23.05.1880",
+    "placeOfBirth": "Moskow",
+    "citizenship": "af",
+    "passport": "MP4533345",
+    "issuedBy": "Первомайским РОВД",
+    "issueDate": "01.01.2017",
+    "expiryDate": "01.01.2027"
+  },
+  "address": {
+    "city": "Minsk",
+    "country": "dz",
+    "address": "Ogo 13/1, 111"
+  },
+  "phone": {
+    "phone": "+1111111111"
+  }
+}

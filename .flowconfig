@@ -1,0 +1,8 @@
+[options]
+ # https://github.com/flowtype/flow-typed/issues/586
+emoji=true
+
+[ignore]
+.*/node_modules/styled-components/.*
+.*/node_modules/react-onsenui/.*
+.*/node_modules/antd-mobile/.*

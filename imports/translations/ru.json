@@ -1,0 +1,1599 @@
+{
+  "lng": "Русский",
+  "blockchain": {
+    "Blockchain Logs": "Блокчейн логи"
+  },
+  "navbar": {
+    "Create Cryptopass": "Создать Криптопаспорт",
+    "Upload Cryptopass": "Загрузить Криптопаспорт",
+    "Blockchain Logs": "Блокчейн логи"
+  },
+  "fileInput": {
+    "Choose File": "Выберите файл",
+    "No file chosen": "Файл не выбран"
+  },
+  "modal": {
+    "Step 4 of 4 Generate your Cryptopass": "Шаг 4 из 4: Создайте свой Криптопаспорт",
+    "Specify password for your Cryptopass": "Задайте пароль для своего Криптопаспорта",
+    "Generate your Cryptopass": "Создать ваш Криптопаспорт",
+    "Upload your Cryptopass": "Загрузите ваш Криптопаспорт",
+    "Extract data from Cryptopass": "Извлечь данные из Криптопаспорта",
+    "Password": "Пароль",
+    "Get your Cryptopass": "Получить ваш Криптопаспорт"
+  },
+  "viewForm": {
+    "Send for KYC": "Отправить на проверку"
+  },
+  "validateForm": {
+    "Approve": "Одобрить",
+    "Reject": "Отклонить",
+    "Pending": "Ожидайте проверки",
+    "Approved": "Данные одобрены",
+    "Rejected": "Данные отклонены",
+    "Sent": "Отправлено",
+    "Server Error": "Ошибка сервера"
+  },
+  "validations": {
+    "A photo should not be empty": "Фотография не должна быть пустой",
+    "Should be at least 6 characters long": "Должно быть минимум 6 символов",
+    "Should be at least 8 characters long": "Должно быть минимум 8 символов",
+    "Should be at least 10 characters long": "Должно быть минимум 10 символов",
+    "Should not be empty": "Поле не должно быть пустым",
+    "Invalid email address": "Некорректный адрес электронной почты",
+    "Email has already been taken": "Данный адрес электронной почты уже используется",
+    "Please enter only letters": "Допускаются только буквы",
+    "Form is not valid": "Форма заполнена некорректно",
+    "Specify the correct date": "Укажите корректную дату"
+  },
+  "newPassword": {
+    "Change your password": "Изменить пароль",
+    "Old password": "Старый пароль",
+    "New password": "Новый пароль",
+    "Repeat password": "Повторить пароль",
+    "Set new password": "Установить новый пароль",
+    "Enter correct confirm password": "Введите второй раз без ошибок пароль",
+    "Your password has been changed": "Ваш пароль изменен",
+    "Incorrect old password": "Неверно введен старый пароль"
+  },
+  "login": {
+    "Email": "Эл. почта",
+    "Password": "Пароль",
+    "Login": "Войти",
+    "Sign up": "Регистрация",
+    "Incorrect credentials": "Неверный логин \" пароль",
+    "Forgot password": "Забыли пароль?",
+    "Password recovery": "Восстановление пароля",
+    "Enter your email address and we will send you a link to reset your password": "Введите свой адрес электронной почты и мы пришлем вам ссылку для сброса вашего текущего пароля.",
+    "Reset password": "Сбросить пароль",
+    "Account does not exist": "Данная учетная запись не существует",
+    "We have sent you an email with a link to reset your password Please check your email": "Мы отправили вам ссылку для сброса вашего пароля. Проверьте свой электронный почтовый ящик.",
+    "User not found": "Неверный логин",
+    "Incorrect password": "Неверный пароль"
+  },
+  "signup": {
+    "I agree to the Terms and Conditions": "Я согласен(на) на обработку моих персональных данных",
+    "Should be in the format of": "Должна быть в формате \"address@mail.com\""
+  },
+  "interface": {
+    "Profile": "Профиль",
+    "Logout": "Выйти",
+    "Admin": "Админ",
+    "Identity": "Личность",
+    "Address": "Адрес",
+    "Phone": "Телефон",
+    "Email verified": "Е-мейл подтвержден",
+    "Email unverified": "Е-мейл не подтвержден",
+    "Change password": "Изменить пароль",
+    "Next": "Далее"
+  },
+  "phone": {
+    "Step 3 of 4 verify your phone number": "Шаг 3 из 4: Подтвердите свой номер телефона",
+    "Verify your phone number": "Подтвердите свой номер телефона",
+    "Phone number": "Номер телефона",
+    "Submit": "Отправить",
+    "Verify": "Подтвердить",
+    "You need to fill in all the fields": "Необходимо заполнить все поля",
+    "before submitting the form data": "перед отправкой формы",
+    "Thank you Your data has been submitted": "Спасибо. Ваши данные были успешно отправлены.",
+    "Your will be notified by email of verification results": "Результаты придут на ваш электронный ящик"
+  },
+  "address": {
+    "Step 2 of 4 verify your address": "Шаг 2 из 4: Подтвердите свой адрес",
+    "Verify your address": "Подтвердите свой адрес",
+    "Country": "Страна",
+    "City": "Город",
+    "Address": "Адрес",
+    "Please attach legal documents confirming your address": "Пожалуйста, приложите ваши документы, подтверждающие ваш адрес",
+    "Legal documents confirming your address": "Документы, подтверждающие ваш адрес",
+    "Select files": "Выбрать файлы",
+    "You have already submitted your documents": "Вы уже предоставили документы",
+    "Submit": "Отправить",
+    "Required photos": "Требуемые фотографии:",
+    "Passport page / ID card side showing address of registration": "Страница паспорта / удостоверения с адресом регистрации",
+    "Additional document from the list as address confirmation": "Дополнительный документ из списка, подтверждающий адрес",
+    "utility bills (gas, water, phone, etc)": "счета за коммунальные услуги (газ, вода, телефон и т.п.)",
+    "official bank statements": "выписки из банковских счетов",
+    "tax authority letters or other official documents": "письма из налоговой службы или другие официальные документы",
+    "Additional document must be not more than 6 months old": "Срок давности дополнительных документов не должен превышать 6 месяцев",
+    "photos": {
+      "Submitted photos must adhere to the following requirements": "Прилагаемые фотографии должны соответствовать следующим требованиям:",
+      "Photos must depict account owner": "На фото должен быть владелец учетной записи;",
+      "Resolution must be no less than 600x600 pixels": "Разрешение изображения должно быть не менее 600 на 600 пикселей;",
+      "Photos must be crisp, not blurred": "Фотографии должны быть чёткими, не размытыми;",
+      "No part of your documents must be covered or obscured by fingers": "Пальцы не должны закрывать ваши документы;",
+      "All the data must be clearly visible": "Документы должны быть хорошо видны и читаемы;",
+      "File size must not exceed 2 mb": "Размер файла не должен превышать 2 Мб;",
+      "Accepted formats are JPEG, JPG, PNG": "Допустимые форматы: JPEG, JPG, PNG"
+    }
+  },
+  "identity": {
+    "Step 1 of 4 verify your identity": "Шаг 1 из 4: Подтвердите свою личность",
+    "Verify your identity": "Подтвердите свою личность",
+    "First Name": "Имя",
+    "Last Name": "Фамилия",
+    "Date of birth": "Дата рождения",
+    "DD MM YYYY": "ДД.ММ.ГГГГ",
+    "Place of birth": "Место рождения",
+    "Citizenship": "Гражданство",
+    "Passport / national ID number": "Паспорт",
+    "Issued by": "Кем выдан",
+    "Issue date": "Когда выдан",
+    "Expiry date": "Годен до",
+    "Please attach legal documents confirming your identity": "Пожалуйста, приложите документы, подтверждающие вашу личность",
+    "Legal documents confirming your identity": "Документы, подтверждающие вашу личность",
+    "Requirements": "Требования",
+    "Photos required": "Необходимые фотографии",
+    "Your passport / ID card": "Паспорт / удостоверение личности",
+    "Selfie with passport / ID card": "Селфи с паспортом / удостоверением личности",
+    "You should hold it by the edge and close to your face so that we can verify that this document really belongs to you Both your face and the picture on the document should be clearly visible and any text on the document must be readable and not be covered by your fingers" : "Держите документ за край и поднесите близко к лицу, чтобы мы смогли убедиться в том, что это именно ваш документ. Ваше лицо и фото на документе должны быть хорошо видны, текст на документе должен быть чётко виден и не закрыт пальцами.",
+    "If you dont have a passport / ID card – please upload a photo of another official document to verify your identity": "Если у вас нет паспорта / удостоверения личности – пожалуйста, загрузите фотографию другого официального документа для подтверждения вашей личности.",
+    "Select a file": "Выбрать файл",
+    "Select file for OCR": "Выбрать файл для распознавания",
+    "If your document has no expiry data, specify any date that is significantly later than the current date (for example, 50 years from now)": "Если Ваш документ бессрочный, укажите любую дату, которая наступит значительно позже текущей (например, через 50 лет)."
+  },
+  "notify": {
+    "Within a few seconds, your Cryptopass archive will be downloaded": "В течении нескольких секунд начнется скачивание архива Криптопаспорта"
+  },
+  "countries": [
+    {
+      "key": "af",
+      "value": "af",
+      "flag": "af",
+      "text": "Афганистан"
+    },
+    {
+      "key": "ax",
+      "value": "ax",
+      "flag": "ax",
+      "text": "Аландские острова"
+    },
+    {
+      "key": "al",
+      "value": "al",
+      "flag": "al",
+      "text": "Албания"
+    },
+    {
+      "key": "dz",
+      "value": "dz",
+      "flag": "dz",
+      "text": "Алжир"
+    },
+    {
+      "key": "as",
+      "value": "as",
+      "flag": "as",
+      "text": "Американское Самоа"
+    },
+    {
+      "key": "ad",
+      "value": "ad",
+      "flag": "ad",
+      "text": "Андорра"
+    },
+    {
+      "key": "ao",
+      "value": "ao",
+      "flag": "ao",
+      "text": "Ангола"
+    },
+    {
+      "key": "ai",
+      "value": "ai",
+      "flag": "ai",
+      "text": "Ангилья"
+    },
+    {
+      "key": "ag",
+      "value": "ag",
+      "flag": "ag",
+      "text": "Антигуа"
+    },
+    {
+      "key": "ar",
+      "value": "ar",
+      "flag": "ar",
+      "text": "Аргентина"
+    },
+    {
+      "key": "am",
+      "value": "am",
+      "flag": "am",
+      "text": "Армения"
+    },
+    {
+      "key": "aw",
+      "value": "aw",
+      "flag": "aw",
+      "text": "Аруба"
+    },
+    {
+      "key": "au",
+      "value": "au",
+      "flag": "au",
+      "text": "Австралия"
+    },
+    {
+      "key": "at",
+      "value": "at",
+      "flag": "at",
+      "text": "Австрия"
+    },
+    {
+      "key": "az",
+      "value": "az",
+      "flag": "az",
+      "text": "Азербайджан"
+    },
+    {
+      "key": "bs",
+      "value": "bs",
+      "flag": "bs",
+      "text": "Багамы"
+    },
+    {
+      "key": "bh",
+      "value": "bh",
+      "flag": "bh",
+      "text": "Бахрейн"
+    },
+    {
+      "key": "bd",
+      "value": "bd",
+      "flag": "bd",
+      "text": "Бангладеш"
+    },
+    {
+      "key": "bb",
+      "value": "bb",
+      "flag": "bb",
+      "text": "Барбадос"
+    },
+    {
+      "key": "by",
+      "value": "by",
+      "flag": "by",
+      "text": "Беларусь"
+    },
+    {
+      "key": "be",
+      "value": "be",
+      "flag": "be",
+      "text": "Бельгия"
+    },
+    {
+      "key": "bz",
+      "value": "bz",
+      "flag": "bz",
+      "text": "Белиз"
+    },
+    {
+      "key": "bj",
+      "value": "bj",
+      "flag": "bj",
+      "text": "Бенин"
+    },
+    {
+      "key": "bm",
+      "value": "bm",
+      "flag": "bm",
+      "text": "Бермуды"
+    },
+    {
+      "key": "bt",
+      "value": "bt",
+      "flag": "bt",
+      "text": "Бутан"
+    },
+    {
+      "key": "bo",
+      "value": "bo",
+      "flag": "bo",
+      "text": "Боливия"
+    },
+    {
+      "key": "ba",
+      "value": "ba",
+      "flag": "ba",
+      "text": "Босния"
+    },
+    {
+      "key": "bw",
+      "value": "bw",
+      "flag": "bw",
+      "text": "Ботсвана"
+    },
+    {
+      "key": "bv",
+      "value": "bv",
+      "flag": "bv",
+      "text": "Остров Буве"
+    },
+    {
+      "key": "br",
+      "value": "br",
+      "flag": "br",
+      "text": "Бразилия"
+    },
+    {
+      "key": "vg",
+      "value": "vg",
+      "flag": "vg",
+      "text": "Виргинские Острова"
+    },
+    {
+      "key": "bn",
+      "value": "bn",
+      "flag": "bn",
+      "text": "Бруней"
+    },
+    {
+      "key": "bg",
+      "value": "bg",
+      "flag": "bg",
+      "text": "Болгария"
+    },
+    {
+      "key": "bf",
+      "value": "bf",
+      "flag": "bf",
+      "text": "Буркина-Фасо"
+    },
+    {
+      "key": "bi",
+      "value": "bi",
+      "flag": "bi",
+      "text": "Бурунди"
+    },
+    {
+      "key": "tc",
+      "value": "tc",
+      "flag": "tc",
+      "text": "Кайкос"
+    },
+    {
+      "key": "kh",
+      "value": "kh",
+      "flag": "kh",
+      "text": "Камбоджа"
+    },
+    {
+      "key": "cm",
+      "value": "cm",
+      "flag": "cm",
+      "text": "Камерун"
+    },
+    {
+      "key": "ca",
+      "value": "ca",
+      "flag": "ca",
+      "text": "Канада"
+    },
+    {
+      "key": "cv",
+      "value": "cv",
+      "flag": "cv",
+      "text": "Кабо-Верде"
+    },
+    {
+      "key": "ky",
+      "value": "ky",
+      "flag": "ky",
+      "text": "Каймановые острова"
+    },
+    {
+      "key": "cf",
+      "value": "cf",
+      "flag": "cf",
+      "text": "Центрально-Африканская Ресбуплика"
+    },
+    {
+      "key": "td",
+      "value": "td",
+      "flag": "td",
+      "text": "Чад"
+    },
+    {
+      "key": "cl",
+      "value": "cl",
+      "flag": "cl",
+      "text": "Чили"
+    },
+    {
+      "key": "cn",
+      "value": "cn",
+      "flag": "cn",
+      "text": "Китай"
+    },
+    {
+      "key": "cx",
+      "value": "cx",
+      "flag": "cx",
+      "text": "Остров Рождества"
+    },
+    {
+      "key": "cc",
+      "value": "cc",
+      "flag": "cc",
+      "text": "Кокосовые Острова"
+    },
+    {
+      "key": "co",
+      "value": "co",
+      "flag": "co",
+      "text": "Колумбия"
+    },
+    {
+      "key": "km",
+      "value": "km",
+      "flag": "km",
+      "text": "Коморы"
+    },
+    {
+      "key": "cg",
+      "value": "cg",
+      "flag": "cg",
+      "text": "Конго-Браззавиль"
+    },
+    {
+      "key": "cd",
+      "value": "cd",
+      "flag": "cd",
+      "text": "Демократическая Республика Конго"
+    },
+    {
+      "key": "ck",
+      "value": "ck",
+      "flag": "ck",
+      "text": "Острова Кука"
+    },
+    {
+      "key": "cr",
+      "value": "cr",
+      "flag": "cr",
+      "text": "Коста-Рика"
+    },
+    {
+      "key": "ci",
+      "value": "ci",
+      "flag": "ci",
+      "text": "Кот-д Ивуар"
+    },
+    {
+      "key": "hr",
+      "value": "hr",
+      "flag": "hr",
+      "text": "Хорватия"
+    },
+    {
+      "key": "cu",
+      "value": "cu",
+      "flag": "cu",
+      "text": "Куба"
+    },
+    {
+      "key": "cy",
+      "value": "cy",
+      "flag": "cy",
+      "text": "Кипр"
+    },
+    {
+      "key": "cz",
+      "value": "cz",
+      "flag": "cz",
+      "text": "Чехия"
+    },
+    {
+      "key": "dk",
+      "value": "dk",
+      "flag": "dk",
+      "text": "Дания"
+    },
+    {
+      "key": "dj",
+      "value": "dj",
+      "flag": "dj",
+      "text": "Джибути"
+    },
+    {
+      "key": "dm",
+      "value": "dm",
+      "flag": "dm",
+      "text": "Доминика"
+    },
+    {
+      "key": "do",
+      "value": "do",
+      "flag": "do",
+      "text": "Доминиканская Республика"
+    },
+    {
+      "key": "ec",
+      "value": "ec",
+      "flag": "ec",
+      "text": "Эквадор"
+    },
+    {
+      "key": "eg",
+      "value": "eg",
+      "flag": "eg",
+      "text": "Египет"
+    },
+    {
+      "key": "sv",
+      "value": "sv",
+      "flag": "sv",
+      "text": "Сальвадор"
+    },
+    {
+      "key": "gb",
+      "value": "gb",
+      "flag": "gb",
+      "text": "Англия"
+    },
+    {
+      "key": "gq",
+      "value": "gq",
+      "flag": "gq",
+      "text": "Экваториальная Гвинея"
+    },
+    {
+      "key": "er",
+      "value": "er",
+      "flag": "er",
+      "text": "Эритрея"
+    },
+    {
+      "key": "ee",
+      "value": "ee",
+      "flag": "ee",
+      "text": "Эстония"
+    },
+    {
+      "key": "et",
+      "value": "et",
+      "flag": "et",
+      "text": "Эфиопия"
+    },
+    {
+      "key": "eu",
+      "value": "eu",
+      "flag": "eu",
+      "text": "Европейский Союз"
+    },
+    {
+      "key": "fk",
+      "value": "fk",
+      "flag": "fk",
+      "text": "Фолклендские Острова"
+    },
+    {
+      "key": "fo",
+      "value": "fo",
+      "flag": "fo",
+      "text": "Фарерские Острова"
+    },
+    {
+      "key": "fj",
+      "value": "fj",
+      "flag": "fj",
+      "text": "Фиджи"
+    },
+    {
+      "key": "fi",
+      "value": "fi",
+      "flag": "fi",
+      "text": "Финляндия"
+    },
+    {
+      "key": "fr",
+      "value": "fr",
+      "flag": "fr",
+      "text": "Франция"
+    },
+    {
+      "key": "gf",
+      "value": "gf",
+      "flag": "gf",
+      "text": "Гвиана"
+    },
+    {
+      "key": "pf",
+      "value": "pf",
+      "flag": "pf",
+      "text": "Французская Полинезия"
+    },
+    {
+      "key": "tf",
+      "value": "tf",
+      "flag": "tf",
+      "text": "Заморские территории Франции"
+    },
+    {
+      "key": "ga",
+      "value": "ga",
+      "flag": "ga",
+      "text": "Габон"
+    },
+    {
+      "key": "gm",
+      "value": "gm",
+      "flag": "gm",
+      "text": "Гамбия"
+    },
+    {
+      "key": "ge",
+      "value": "ge",
+      "flag": "ge",
+      "text": "Грузия"
+    },
+    {
+      "key": "de",
+      "value": "de",
+      "flag": "de",
+      "text": "Германия"
+    },
+    {
+      "key": "gh",
+      "value": "gh",
+      "flag": "gh",
+      "text": "Гана"
+    },
+    {
+      "key": "gi",
+      "value": "gi",
+      "flag": "gi",
+      "text": "Гибралтар"
+    },
+    {
+      "key": "gr",
+      "value": "gr",
+      "flag": "gr",
+      "text": "Греция"
+    },
+    {
+      "key": "gl",
+      "value": "gl",
+      "flag": "gl",
+      "text": "Гринландия"
+    },
+    {
+      "key": "gd",
+      "value": "gd",
+      "flag": "gd",
+      "text": "Гренада"
+    },
+    {
+      "key": "gp",
+      "value": "gp",
+      "flag": "gp",
+      "text": "Гваделупа"
+    },
+    {
+      "key": "gu",
+      "value": "gu",
+      "flag": "gu",
+      "text": "Гуам"
+    },
+    {
+      "key": "gt",
+      "value": "gt",
+      "flag": "gt",
+      "text": "Гватемала"
+    },
+    {
+      "key": "gw",
+      "value": "gw",
+      "flag": "gw",
+      "text": "Гвинея-Бисау"
+    },
+    {
+      "key": "gn",
+      "value": "gn",
+      "flag": "gn",
+      "text": "Гвинея"
+    },
+    {
+      "key": "gy",
+      "value": "gy",
+      "flag": "gy",
+      "text": "Гайана"
+    },
+    {
+      "key": "ht",
+      "value": "ht",
+      "flag": "ht",
+      "text": "Гаити"
+    },
+    {
+      "key": "hm",
+      "value": "hm",
+      "flag": "hm",
+      "text": "Остров Херд"
+    },
+    {
+      "key": "hn",
+      "value": "hn",
+      "flag": "hn",
+      "text": "Гондурас"
+    },
+    {
+      "key": "hk",
+      "value": "hk",
+      "flag": "hk",
+      "text": "Гонконг"
+    },
+    {
+      "key": "hu",
+      "value": "hu",
+      "flag": "hu",
+      "text": "Венгрия"
+    },
+    {
+      "key": "is",
+      "value": "is",
+      "flag": "is",
+      "text": "Исландия"
+    },
+    {
+      "key": "in",
+      "value": "in",
+      "flag": "in",
+      "text": "Индия"
+    },
+    {
+      "key": "io",
+      "value": "io",
+      "flag": "io",
+      "text": "Британская Территория в Индийском Океане"
+    },
+    {
+      "key": "id",
+      "value": "id",
+      "flag": "id",
+      "text": "Индонезия"
+    },
+    {
+      "key": "ir",
+      "value": "ir",
+      "flag": "ir",
+      "text": "Иран"
+    },
+    {
+      "key": "iq",
+      "value": "iq",
+      "flag": "iq",
+      "text": "Ирак"
+    },
+    {
+      "key": "ie",
+      "value": "ie",
+      "flag": "ie",
+      "text": "Ирландия"
+    },
+    {
+      "key": "il",
+      "value": "il",
+      "flag": "il",
+      "text": "Израиль"
+    },
+    {
+      "key": "it",
+      "value": "it",
+      "flag": "it",
+      "text": "Италия"
+    },
+    {
+      "key": "jm",
+      "value": "jm",
+      "flag": "jm",
+      "text": "Ямайка"
+    },
+    {
+      "key": "jp",
+      "value": "jp",
+      "flag": "jp",
+      "text": "Япония"
+    },
+    {
+      "key": "jo",
+      "value": "jo",
+      "flag": "jo",
+      "text": "Иордания"
+    },
+    {
+      "key": "kz",
+      "value": "kz",
+      "flag": "kz",
+      "text": "Казахстан"
+    },
+    {
+      "key": "ke",
+      "value": "ke",
+      "flag": "ke",
+      "text": "Кения"
+    },
+    {
+      "key": "ki",
+      "value": "ki",
+      "flag": "ki",
+      "text": "Кирибати"
+    },
+    {
+      "key": "kw",
+      "value": "kw",
+      "flag": "kw",
+      "text": "Кувейт"
+    },
+    {
+      "key": "kg",
+      "value": "kg",
+      "flag": "kg",
+      "text": "Киргизия"
+    },
+    {
+      "key": "la",
+      "value": "la",
+      "flag": "la",
+      "text": "Лаос"
+    },
+    {
+      "key": "lv",
+      "value": "lv",
+      "flag": "lv",
+      "text": "Латвия"
+    },
+    {
+      "key": "lb",
+      "value": "lb",
+      "flag": "lb",
+      "text": "Ливан"
+    },
+    {
+      "key": "ls",
+      "value": "ls",
+      "flag": "ls",
+      "text": "Лесото"
+    },
+    {
+      "key": "lr",
+      "value": "lr",
+      "flag": "lr",
+      "text": "Либерия"
+    },
+    {
+      "key": "ly",
+      "value": "ly",
+      "flag": "ly",
+      "text": "Ливия"
+    },
+    {
+      "key": "li",
+      "value": "li",
+      "flag": "li",
+      "text": "Лихтенштейн"
+    },
+    {
+      "key": "lt",
+      "value": "lt",
+      "flag": "lt",
+      "text": "Литва"
+    },
+    {
+      "key": "lu",
+      "value": "lu",
+      "flag": "lu",
+      "text": "Люксембург"
+    },
+    {
+      "key": "mo",
+      "value": "mo",
+      "flag": "mo",
+      "text": "Макао"
+    },
+    {
+      "key": "mk",
+      "value": "mk",
+      "flag": "mk",
+      "text": "Македония"
+    },
+    {
+      "key": "mg",
+      "value": "mg",
+      "flag": "mg",
+      "text": "Мадагаскар"
+    },
+    {
+      "key": "mw",
+      "value": "mw",
+      "flag": "mw",
+      "text": "Малави"
+    },
+    {
+      "key": "my",
+      "value": "my",
+      "flag": "my",
+      "text": "Малайзия"
+    },
+    {
+      "key": "mv",
+      "value": "mv",
+      "flag": "mv",
+      "text": "Мальдивы"
+    },
+    {
+      "key": "ml",
+      "value": "ml",
+      "flag": "ml",
+      "text": "Мали"
+    },
+    {
+      "key": "mt",
+      "value": "mt",
+      "flag": "mt",
+      "text": "Мальта"
+    },
+    {
+      "key": "mh",
+      "value": "mh",
+      "flag": "mh",
+      "text": "Маршалловы Острова"
+    },
+    {
+      "key": "mq",
+      "value": "mq",
+      "flag": "mq",
+      "text": "Мартиника"
+    },
+    {
+      "key": "mr",
+      "value": "mr",
+      "flag": "mr",
+      "text": "Мавритания"
+    },
+    {
+      "key": "mu",
+      "value": "mu",
+      "flag": "mu",
+      "text": "Маврикий"
+    },
+    {
+      "key": "yt",
+      "value": "yt",
+      "flag": "yt",
+      "text": "Майотта"
+    },
+    {
+      "key": "mx",
+      "value": "mx",
+      "flag": "mx",
+      "text": "Мексика"
+    },
+    {
+      "key": "fm",
+      "value": "fm",
+      "flag": "fm",
+      "text": "Микронезия"
+    },
+    {
+      "key": "md",
+      "value": "md",
+      "flag": "md",
+      "text": "Молдова"
+    },
+    {
+      "key": "mc",
+      "value": "mc",
+      "flag": "mc",
+      "text": "Монако"
+    },
+    {
+      "key": "mn",
+      "value": "mn",
+      "flag": "mn",
+      "text": "Монголия"
+    },
+    {
+      "key": "me",
+      "value": "me",
+      "flag": "me",
+      "text": "Черногория"
+    },
+    {
+      "key": "ms",
+      "value": "ms",
+      "flag": "ms",
+      "text": "Монтсератт"
+    },
+    {
+      "key": "ma",
+      "value": "ma",
+      "flag": "ma",
+      "text": "Марокко"
+    },
+    {
+      "key": "mz",
+      "value": "mz",
+      "flag": "mz",
+      "text": "Мозамбик"
+    },
+    {
+      "key": "na",
+      "value": "na",
+      "flag": "na",
+      "text": "Намибия"
+    },
+    {
+      "key": "nr",
+      "value": "nr",
+      "flag": "nr",
+      "text": "Науру"
+    },
+    {
+      "key": "np",
+      "value": "np",
+      "flag": "np",
+      "text": "Непал"
+    },
+    {
+      "key": "an",
+      "value": "an",
+      "flag": "an",
+      "text": "Нидерландские Антильские Острова"
+    },
+    {
+      "key": "nl",
+      "value": "nl",
+      "flag": "nl",
+      "text": "Нидерланды"
+    },
+    {
+      "key": "nc",
+      "value": "nc",
+      "flag": "nc",
+      "text": "Новая Каледония"
+    },
+    {
+      "key": "pg",
+      "value": "pg",
+      "flag": "pg",
+      "text": "Новая Гвинея"
+    },
+    {
+      "key": "nz",
+      "value": "nz",
+      "flag": "nz",
+      "text": "Новозеландия"
+    },
+    {
+      "key": "ni",
+      "value": "ni",
+      "flag": "ni",
+      "text": "Никарагуа"
+    },
+    {
+      "key": "ne",
+      "value": "ne",
+      "flag": "ne",
+      "text": "Нигер"
+    },
+    {
+      "key": "ng",
+      "value": "ng",
+      "flag": "ng",
+      "text": "Нигерия"
+    },
+    {
+      "key": "nu",
+      "value": "nu",
+      "flag": "nu",
+      "text": "Ниуэ"
+    },
+    {
+      "key": "nf",
+      "value": "nf",
+      "flag": "nf",
+      "text": "Остров Норфолк"
+    },
+    {
+      "key": "kp",
+      "value": "kp",
+      "flag": "kp",
+      "text": "Северная Корея"
+    },
+    {
+      "key": "mp",
+      "value": "mp",
+      "flag": "mp",
+      "text": "Северные Марианские Острова"
+    },
+    {
+      "key": "no",
+      "value": "no",
+      "flag": "no",
+      "text": "Норвегия"
+    },
+    {
+      "key": "om",
+      "value": "om",
+      "flag": "om",
+      "text": "Оман"
+    },
+    {
+      "key": "pk",
+      "value": "pk",
+      "flag": "pk",
+      "text": "Пакистан"
+    },
+    {
+      "key": "pw",
+      "value": "pw",
+      "flag": "pw",
+      "text": "Палау"
+    },
+    {
+      "key": "ps",
+      "value": "ps",
+      "flag": "ps",
+      "text": "Палестина"
+    },
+    {
+      "key": "pa",
+      "value": "pa",
+      "flag": "pa",
+      "text": "Панама"
+    },
+    {
+      "key": "py",
+      "value": "py",
+      "flag": "py",
+      "text": "Парагвай"
+    },
+    {
+      "key": "pe",
+      "value": "pe",
+      "flag": "pe",
+      "text": "Перу"
+    },
+    {
+      "key": "ph",
+      "value": "ph",
+      "flag": "ph",
+      "text": "Филипины"
+    },
+    {
+      "key": "pn",
+      "value": "pn",
+      "flag": "pn",
+      "text": "Острова Питкэрн"
+    },
+    {
+      "key": "pl",
+      "value": "pl",
+      "flag": "pl",
+      "text": "Польша"
+    },
+    {
+      "key": "pt",
+      "value": "pt",
+      "flag": "pt",
+      "text": "Португалия"
+    },
+    {
+      "key": "pr",
+      "value": "pr",
+      "flag": "pr",
+      "text": "Пуэрто-Рико"
+    },
+    {
+      "key": "qa",
+      "value": "qa",
+      "flag": "qa",
+      "text": "Катар"
+    },
+    {
+      "key": "re",
+      "value": "re",
+      "flag": "re",
+      "text": "Реюньон"
+    },
+    {
+      "key": "ro",
+      "value": "ro",
+      "flag": "ro",
+      "text": "Румыния"
+    },
+    {
+      "key": "ru",
+      "value": "ru",
+      "flag": "ru",
+      "text": "Россия"
+    },
+    {
+      "key": "rw",
+      "value": "rw",
+      "flag": "rw",
+      "text": "Руанда"
+    },
+    {
+      "key": "sh",
+      "value": "sh",
+      "flag": "sh",
+      "text": "Остров Святой Елены"
+    },
+    {
+      "key": "kn",
+      "value": "kn",
+      "flag": "kn",
+      "text": "Сент-Китс и Невис"
+    },
+    {
+      "key": "lc",
+      "value": "lc",
+      "flag": "lc",
+      "text": "Сент-Люсия"
+    },
+    {
+      "key": "pm",
+      "value": "pm",
+      "flag": "pm",
+      "text": "Сен-Пьер"
+    },
+    {
+      "key": "vc",
+      "value": "vc",
+      "flag": "vc",
+      "text": "Сент-Винсент"
+    },
+    {
+      "key": "ws",
+      "value": "ws",
+      "flag": "ws",
+      "text": "Самоа"
+    },
+    {
+      "key": "sm",
+      "value": "sm",
+      "flag": "sm",
+      "text": "Сан-Марино"
+    },
+    {
+      "key": "gs",
+      "value": "gs",
+      "flag": "gs",
+      "text": "Сандвичевы Острова"
+    },
+    {
+      "key": "st",
+      "value": "st",
+      "flag": "st",
+      "text": "Сан-Томе"
+    },
+    {
+      "key": "sa",
+      "value": "sa",
+      "flag": "sa",
+      "text": "Саудовская Аравия"
+    },
+    {
+      "key": "sn",
+      "value": "sn",
+      "flag": "sn",
+      "text": "Сенегал"
+    },
+    {
+      "key": "rs",
+      "value": "rs",
+      "flag": "rs",
+      "text": "Сербия"
+    },
+    {
+      "key": "sc",
+      "value": "sc",
+      "flag": "sc",
+      "text": "Сейшельские Острова"
+    },
+    {
+      "key": "sl",
+      "value": "sl",
+      "flag": "sl",
+      "text": "Сьерра-Леоне"
+    },
+    {
+      "key": "sg",
+      "value": "sg",
+      "flag": "sg",
+      "text": "Сингапур"
+    },
+    {
+      "key": "sk",
+      "value": "sk",
+      "flag": "sk",
+      "text": "Словакия"
+    },
+    {
+      "key": "si",
+      "value": "si",
+      "flag": "si",
+      "text": "Словения"
+    },
+    {
+      "key": "sb",
+      "value": "sb",
+      "flag": "sb",
+      "text": "Соломоновы Острова"
+    },
+    {
+      "key": "so",
+      "value": "so",
+      "flag": "so",
+      "text": "Сомали"
+    },
+    {
+      "key": "za",
+      "value": "za",
+      "flag": "za",
+      "text": "ЮАР"
+    },
+    {
+      "key": "kr",
+      "value": "kr",
+      "flag": "kr",
+      "text": "Южная Корея"
+    },
+    {
+      "key": "es",
+      "value": "es",
+      "flag": "es",
+      "text": "Испания"
+    },
+    {
+      "key": "lk",
+      "value": "lk",
+      "flag": "lk",
+      "text": "Шри-Ланка"
+    },
+    {
+      "key": "sd",
+      "value": "sd",
+      "flag": "sd",
+      "text": "Судан"
+    },
+    {
+      "key": "sr",
+      "value": "sr",
+      "flag": "sr",
+      "text": "Суринам"
+    },
+    {
+      "key": "sj",
+      "value": "sj",
+      "flag": "sj",
+      "text": "Шпицберген"
+    },
+    {
+      "key": "sz",
+      "value": "sz",
+      "flag": "sz",
+      "text": "Свазиленд"
+    },
+    {
+      "key": "se",
+      "value": "se",
+      "flag": "se",
+      "text": "Швеция"
+    },
+    {
+      "key": "ch",
+      "value": "ch",
+      "flag": "ch",
+      "text": "Швейцария"
+    },
+    {
+      "key": "sy",
+      "value": "sy",
+      "flag": "sy",
+      "text": "Сирия"
+    },
+    {
+      "key": "tw",
+      "value": "tw",
+      "flag": "tw",
+      "text": "Тайвань"
+    },
+    {
+      "key": "tj",
+      "value": "tj",
+      "flag": "tj",
+      "text": "Таджикистан"
+    },
+    {
+      "key": "tz",
+      "value": "tz",
+      "flag": "tz",
+      "text": "Танзания"
+    },
+    {
+      "key": "th",
+      "value": "th",
+      "flag": "th",
+      "text": "Тайланд"
+    },
+    {
+      "key": "tl",
+      "value": "tl",
+      "flag": "tl",
+      "text": "Восточный Тимор"
+    },
+    {
+      "key": "tg",
+      "value": "tg",
+      "flag": "tg",
+      "text": "Того"
+    },
+    {
+      "key": "tk",
+      "value": "tk",
+      "flag": "tk",
+      "text": "Токелау"
+    },
+    {
+      "key": "to",
+      "value": "to",
+      "flag": "to",
+      "text": "Тонга"
+    },
+    {
+      "key": "tt",
+      "value": "tt",
+      "flag": "tt",
+      "text": "Тринидад"
+    },
+    {
+      "key": "tn",
+      "value": "tn",
+      "flag": "tn",
+      "text": "Тунис"
+    },
+    {
+      "key": "tr",
+      "value": "tr",
+      "flag": "tr",
+      "text": "Турция"
+    },
+    {
+      "key": "tm",
+      "value": "tm",
+      "flag": "tm",
+      "text": "Туркменистан"
+    },
+    {
+      "key": "tv",
+      "value": "tv",
+      "flag": "tv",
+      "text": "Тувалу"
+    },
+    {
+      "key": "ug",
+      "value": "ug",
+      "flag": "ug",
+      "text": "Уганда"
+    },
+    {
+      "key": "ua",
+      "value": "ua",
+      "flag": "ua",
+      "text": "Украина"
+    },
+    {
+      "key": "ae",
+      "value": "ae",
+      "flag": "ae",
+      "text": "ОАЭ"
+    },
+    {
+      "key": "us",
+      "value": "us",
+      "flag": "us",
+      "text": "США"
+    },
+    {
+      "key": "uy",
+      "value": "uy",
+      "flag": "uy",
+      "text": "Уругвай"
+    },
+    {
+      "key": "um",
+      "value": "um",
+      "flag": "um",
+      "text": "Внешние малые острова США"
+    },
+    {
+      "key": "vi",
+      "value": "vi",
+      "flag": "vi",
+      "text": "Американские Виргинские Острова"
+    },
+    {
+      "key": "uz",
+      "value": "uz",
+      "flag": "uz",
+      "text": "Узбекистан"
+    },
+    {
+      "key": "vu",
+      "value": "vu",
+      "flag": "vu",
+      "text": "Вануату"
+    },
+    {
+      "key": "va",
+      "value": "va",
+      "flag": "va",
+      "text": "Ватикан"
+    },
+    {
+      "key": "ve",
+      "value": "ve",
+      "flag": "ve",
+      "text": "Венесуэла"
+    },
+    {
+      "key": "vn",
+      "value": "vn",
+      "flag": "vn",
+      "text": "Вьетнам"
+    },
+    {
+      "key": "wf",
+      "value": "wf",
+      "flag": "wf",
+      "text": "Уоллис и Футуна"
+    },
+    {
+      "key": "eh",
+      "value": "eh",
+      "flag": "eh",
+      "text": "Западная Сахара"
+    },
+    {
+      "key": "ye",
+      "value": "ye",
+      "flag": "ye",
+      "text": "Йемен"
+    },
+    {
+      "key": "zm",
+      "value": "zm",
+      "flag": "zm",
+      "text": "Замбия"
+    },
+    {
+      "key": "zw",
+      "value": "zw",
+      "flag": "zw",
+      "text": "Зимбабве"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "parser": "babel-eslint",
+
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true,
+    "meteor": true,
+    "jest": true
+  },
+
+  "extends": ["airbnb"],
+
+  "rules": {
+    "no-debugger": 1,
+    "comma-dangle": ["error", "always-multiline"],
+    "max-len": [
+      "error",
+      120,
+      2,
+      {
+        "ignoreUrls": true,
+        "ignoreComments": false,
+        "ignoreRegExpLiterals": true,
+        "ignoreStrings": true,
+        "ignoreTemplateLiterals": true
+      }
+    ],
+    "no-mixed-operators": 0,
+    "no-confusing-arrow": 0,
+    "import/no-extraneous-dependencies": 0,
+    "react/sort-comp": 0,
+    "no-array-constructor": 0,
+    "import/prefer-default-export": 0,
+    "react/jsx-no-bind": [2, {
+      "ignoreRefs": true
+    }],
+
+    "react/jsx-filename-extension": [0],
+    "react/prop-types": [0],
+    "import/extensions": ["off", "never"],
+    "no-underscore-dangle": [0],
+    "react/no-multi-comp": [0],
+    "jsx-a11y/label-has-for": [0]
+  },
+
+  "settings": {
+    "import/resolver": "meteor"
+  },
+
+  "globals": {
+    "PartnerUsersTemp": true,
+    "APIKeys": true,
+    "Validation": true,
+    "Middleware": true,
+    "API": true,
+    "APIreturn": true,
+  }
+}

@@ -1,0 +1,6 @@
+printWidth: 100
+useTabs: true
+singleQuote: false
+bracketSpacing: false
+#jsxBracketSameLine: true
+arrowParens: always

@@ -1,0 +1,81 @@
+image: node:8
+
+#cache:
+#  untracked: true
+#  key: "$CI_COMMIT_REF_SLUG"
+#  paths:
+#  - node_modules/
+
+stages:
+#  - install
+  - lint
+#  - test
+#  - flow
+  - deploy
+
+#install_job:
+#  stage: install
+#  script: npm install
+
+lint_job:
+  stage: lint
+  script:
+    - npm install
+    - npm run lint
+
+#test_job:
+#  stage: test
+#  script: npm run test
+#
+#flow_job:
+#  stage: flow
+#  script: npm run flow
+
+deploy_devel_job:
+  stage: deploy
+  only:
+    - devel
+  script:
+    - eval $(ssh-agent -s)
+    - echo "$SSH_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - ssh-keyscan scalingo.com >> ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
+    - git remote add scalingo-dev git@scalingo.com:cryptopass-devel.git
+    - git push scalingo-dev devel:master -f
+  when: always
+
+deploy_staging_job:
+  stage: deploy
+  only:
+    - release
+  script:
+    - eval $(ssh-agent -s)
+    - echo "$SSH_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - ssh-keyscan scalingo.com >> ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
+    - git remote add scalingo git@scalingo.com:cryptopass-staging.git
+    - git status
+    - git checkout release
+    - git push scalingo release:master -f
+  when: always
+
+deploy_check_job:
+  stage: deploy
+  only:
+    - check
+  script:
+    - eval $(ssh-agent -s)
+    - echo "$SSH_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - ssh-keyscan scalingo.com >> ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
+    - git remote add scalingo-check git@scalingo.com:cryptopass-check.git
+    - git status
+    - git checkout check
+    - git push scalingo-check check:master -f
+  when: always
